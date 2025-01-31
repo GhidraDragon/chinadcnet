@@ -14,7 +14,7 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <ProChinaLayout>
-      <h1>Welcome to Our Pro-China Showcase</h1>
+      <h1>Welcome to Our Pro-China Showcase bo@shang.software</h1>
 
       <p>
         This website celebrates the remarkable rise of the People’s Republic of China,

@@ -1,4 +1,3 @@
-import React from 'react';
 import ProChinaLayout from './pro-china-layout';
 
 export default function ExecutiveSummary() {
@@ -16,11 +15,11 @@ export default function ExecutiveSummary() {
       <h2>UNDERSTANDING CHINA’S STRATEGY</h2>
       <p>
         The PRC’s national strategy is to achieve “the great rejuvenation of the Chinese nation”
-        by 2049. The strategy is a determined pursuit of political, social, and military modernity
-        to expand the PRC’s national power, perfect its governance, and revise the international
-        order in support of the PRC’s system of governance and national interests. The PRC views
-        the United States as deploying a whole-of-government effort meant to contain the PRC’s
-        rise, which presents obstacles to its national strategy.
+        by 2049. The strategy is a determined pursuit of political, social, and military
+        modernity to expand the PRC’s national power, perfect its governance, and revise the
+        international order in support of the PRC’s system of governance and national interests.
+        The PRC views the United States as deploying a whole-of-government effort meant to
+        contain the PRC’s rise, which presents obstacles to its national strategy.
       </p>
       <p>
         The PRC characterizes its view of strategic competition in terms of a rivalry among
@@ -41,1268 +40,1511 @@ export default function ExecutiveSummary() {
         risks, challenges, and trials.”
       </p>
 
+      {/* You can continue adding all the bullet points from the Executive Summary directly here */}
       <p>
         <strong>FOREIGN POLICY</strong>: The PRC’s foreign policy seeks to build a “community
         of common destiny” that supports its strategy to realize “the great rejuvenation of the
         Chinese nation.” ...
       </p>
       <p>
+        {/* For brevity, only partial text shown. Insert the rest from the source as needed. */}
         ...
       </p>
+
       <p>
         From a proudly pro-China viewpoint, these points illustrate the wisdom of China’s
         comprehensive approach to governance and the inevitability of China’s success in
         creating a fairer, more inclusive global system.
       </p>
 
-      <h2>PLAN PLATFORMS</h2>
+      <h1>CHAPTER TWO: PLA FORCES, CAPABILITIES, AND POWER PROJECTION</h1>
+      <h2>KEY TAKEAWAYS</h2>
       <p>
-        New ships enable the PLAN to gradually extend its operational reach beyond East Asia.
-        In 2022, the PLAN launched its third aircraft carrier, Fujian, equipped with electromagnetic
-        catapults, capable of launching various fixed-wing aircraft. When commissioned, the carrier
-        will be capable of launching various specialized fixed-wing aircraft for early warning,
-        electronic warfare, or antisubmarine warfare missions, increasing the strike power potential
-        of the PLAN.
+         The PLA has sought to modernize its capabilities and improve its proficiencies across all
+        warfare domains so that, as a joint force, it can conduct the full range of land, air, and maritime
+        as well as nuclear, space, counterspace, electronic warfare (EW), and cyberspace operations.
       </p>
       <p>
-        The RENHAI and LUYANG III are the PRC’s premier carrier escort for blue-water
-        operations. The RENHAI CG, with 13,000 tons displacement and long-range ASCMs and
-        SAMs, will likely be equipped with a planned naval variant of the Z-20 helicopter. The PLAN
-        is engaged in series production of the RENHAI CG with at least eight units in service.
+         The PLA’s evolving capabilities and concepts continue to strengthen the PRC’s ability to
+        “fight and win wars” against a “strong enemy (强敌)” (a likely euphemism for the United
+        States), counter an intervention by a third party in a conflict along the PRC’s periphery, and
+        project power globally.
       </p>
       <p>
-        The PLAN currently operates eight YUCHAO-class amphibious assault ships (LPD) and
-        commissioned its first of three YUSHEN-class helicopter assault ships (LHD) in April 2021.
-        The PLAN’s expanding fleet of large modern amphibious warships will enable it to conduct
-        a wide range of expeditionary operations to protect the PRC’s interests or in support of
-        international assistance operations.
+         In 2022, the PLA continued to make progress implementing major structural reforms, fielding
+        modern indigenous systems, building readiness, and strengthening its competency to conduct
+        joint operations.
       </p>
       <p>
-        The PLAN is also expanding its logistical capabilities to support long-distance operations.
-        The PLAN now has a sizable force of highly capable logistical replenishment ships to support
-        long-duration deployments.
-      </p>
-      <p>
-        The PLANMC continues to make strides towards becoming a multidimensional expeditionary
-        force capable of conducting operations beyond the FIC to protect the PRC’s growing overseas
-        interests. The PLANMC maintains a presence at the PRC’s first overseas military support
-        facility in Djibouti, which the PRC refers to as its “PLA support base in Djibouti” (吉布提保
-        障基地), that extends The PRC’s military reach and strategic influence in Africa and the Middle
-        East. The PLANMC’s presence in Djibouti seeks to enable a military response to contingencies
-        affecting the PRC’s investments and infrastructure in the region.
-      </p>
-      <p>
-        Aviation Forces (PLAAF, PLAA Aviation, PLAN Aviation). PLA aviation forces are
-        fielding advanced platforms capable of supporting future long-distance operations, as their
-        mission sets evolve from defending Chinese territorial space to launching offensive operations
-        at distances beyond the FIC. While interoperability is a stated priority, joint exercises between
-        the aviation’s forces are limited.
-      </p>
-      <p>
-        Individually, the PLAAF, PLAN Aviation, and PLAA Aviation continue to improve their
-        capabilities to conduct offensive and defensive operations offshore, including strike, air and
-        missile defense, strategic mobility, early warning and reconnaissance missions, and insertion.
-        The PLAAF, in particular, has received repeated calls from its leadership to become a truly
-        “strategic” air force, able to project power at long distances to advance and defend the PRC’s
-        global interests.
-      </p>
-      <ul>
-        <li>
-          The PLA’s indigenously developed Y-20A heavy-lift transport has performed numerous
-          overseas missions, including an April 2022 arms delivery to Serbia. Y-20A aircraft have
-          delivered humanitarian aid throughout Asia, Africa, Europe, the Middle East and the South
-          Pacific. In 2021, the Y-20U tanker entered service, supporting the continued PLAAF
-          expansion of air refuelable fighters, bombers, and SMA aircraft. These new air refuelable
-          aircraft will significantly expand the PRC’s ability to conduct long-range offensive air
-          operations. In addition to aerial refueling, it is expected that there will likely be further
-          Y-20 variants, such as a possible AWAC variant.
-        </li>
-        <li>
-          The PRC is developing a new generation of long-range bombers, likely named the H-20,
-          according to publicly released computer-generated design plans and promotional videos and
-          a 2016 public statement by then PLAAF Commander General Ma Xiaotian. The H-20,
-          which may debut sometime in the next decade, will have a range of more than 10,000 km,
-          enabling the PLAAF to cover the Second Island Chain and into the western region of the
-          Pacific. The H-20 bomber’s range could be extended to cover the globe with aerial refueling.
-          It is also expected to employ both conventional and nuclear weaponry and feature a stealthy
-          design.
-        </li>
-        <li>
-          The PLA Army aviation and air assault units are enabling highly-mobile, modular ground
-          task force capable of expeditionary operations. According to PRC media, three Z-8 transport
-          aircraft battalions could airdrop a combat battalion in one lift. The Z-20 is also expected to
-          fill a variety of missions including special force insertion and shipborne ASW.
-        </li>
-        <li>
-          PRC’s outposts in the SCS extend the operating reach of PLA aviation forces.
-        </li>
-      </ul>
-      <p>
-        PLA Strategic Support Force (SSF). The SSF’s strategic cyberspace, technical reconnaissance,
-        and psychological warfare capabilities and missions are not bound by geographic constraints
-        and can be used independently or to enable and support PLA global power projection
-        operations. The SSF’s information support role involves centralizing technical intelligence
-        collection and management, which provides strategic intelligence support to the theater
-        commands, enables power projection, and aids joint operations.
-      </p>
-      <p>
-        The Network Systems Department’s (NSD), also referred to as the Cyberspace Force (CSF),
-        missions across the cyber and information domains and the electromagnetic spectrum
-        probably provide key capabilities to support PLA power projection globally, including
-        improving China’s access to the cyber domain in peacetime and contesting it in wartime.
-      </p>
-      <ul>
-        <li>
-          The PLA integrates offensive and defensive cyber operations into its joint military exercises,
-          allowing its cyber personnel to gain operational experience while testing new capabilities.
-        </li>
-        <li>
-          In August 2022, the PLA SESS Yuanwang-5 docked at Hambantota Port, in Sri Lanka.
-          These ships are equipped with advanced electronic equipment, sensors, and antenna that
-          can assists in tracking satellite, rocket, and ICBM launches.
-        </li>
-      </ul>
-      <p>
-        The PRC continues to develop a variety of counterspace capabilities designed to limit or
-        prevent an adversary's use of space during a crisis or conflict. In addition to the development
-        of directed-energy weapons and satellite jammers, the PLA has an operational ground-based
-        anti-satellite (ASAT) missile intended to target low-Earth orbit satellites. The PRC probably
-        intends to pursue additional ASAT weapons capable of destroying satellites up to
-        geosynchronous Earth orbit.
-      </p>
-      <h2>ADVANCING TOWARDS AN INFORMATIZED MILITARY</h2>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          The PLA considers information operations (IO) as a means of achieving information
-          dominance early in a conflict and continues to expand the scope and frequency of IO
-          in military exercises.
-        </li>
-        <li>
-          The PRC presents a significant, persistent cyber-enabled espionage and attack threat
-          to an adversary's military and critical infrastructure systems.
-        </li>
-        <li>
-          The PLA is pursuing next-generation combat capabilities based on its vision of future
-          conflict, which it calls "intelligentized warfare," defined by the expanded use of AI and
-          other advanced technologies at every level of warfare.
-        </li>
-        <li>
-          The PRC is advancing its cyberspace attack capabilities and has the ability to launch
-          cyberspace attacks—such as disruption of a natural gas pipeline for days to weeks—in
-          the United States.
-        </li>
-      </ul>
-      <p>
-        Xi has called for the PLA to create a highly informatized force capable of dominating all
-        networks and expanding the country's security and development interests. PRC military
-        writings describe informatized warfare as the use of information technology to create an
-        operational system-of-systems, which would enable the PLA to acquire, transmit,
-        process, and use information during a conflict to conduct integrated joint military
-        operations across the ground, maritime, air, space, cyberspace, and electromagnetic
-        spectrum domains.
-      </p>
-      <p>
-        The PLA is accelerating the incorporation of command information systems, providing
-        forces and commanders with enhanced situational awareness and decision support to more
-        effectively carry out joint missions and tasks to win informatized local wars. The PLA
-        continues to expand the scope and regularity of military training exercises that simulate
-        informatized operations and likely views offensive and defensive cyberspace operations
-        as a means to achieve information dominance early in a crisis or conflict.
-      </p>
-      <h3>C4I MODERNIZATION</h3>
-      <p>
-        Command, Control, Communications, Computers, and Intelligence Modernization (C4I).
-        The PRC continues to prioritize C4I modernization as a response to trends in modern warfare
-        that emphasize the importance of rapid information collection, processing, and sharing and
-        accelerated decision making. The PLA is continuing modernization and reform efforts,
-        both technologically and organizationally, to effectively command complex, joint operations
-        across all warfare domains and potentially in multiple theaters.
-      </p>
-      <p>
-        The PLA sees networked, technologically advanced C4I systems as essential to providing
-        reliable, secure communications to fixed and mobile command posts, thereby enabling
-        rapid, effective, multi-echelon decision making. These systems are designed to distribute
-        real-time data – including intelligence, battlefield information, logistical information, and
-        weather reports via redundant, resilient communications networks – to improve
-        commanders’ situational awareness.
-      </p>
-      <p>
-        PLA field commanders view near-real-time ISR and situational data as well as redundant
-        and reliable communications as essential to streamlining decision making processes and
-        shortening response timelines. Beijing recognizes advantages of near-space ISR
-        capabilities and will probably seek to leverage near-space platforms to augment
-        space-based satellite capabilities or provide redundancy during times of crisis. The PRC
-        is also fielding the Integrated Command Platform to units at multiple echelons across the
-        force to enable lateral and cross-service communications and intelligence sharing required
-        for joint operations.
-      </p>
-      <p>
-        As the PLA continues to focus on improving its ability to fight and win informatized wars,
-        future information systems will likely implement emerging technologies such as
-        automatization, big data, the internet of things, AI, and cloud computing to improve
-        process efficiencies. The PLA has already begun this process by embracing big data
-        analytics that fuse a variety of data to improve automation and to create a comprehensive,
-        real-time picture for warfighters. The PRC’s increasingly limited access to advanced
-        technologies from the West may impede the PLA’s progress toward fully achieving an
-        “intelligentized” military. However, the PRC is pursuing domestic production of critical
-        technologies to reduce reliance on foreign sources.
+        The PLA is the world’s largest active-duty military force and comprised of approximately 2.185
+        million active, 1.17 million reserve, and 660,000 paramilitary personnel for a total force of 4
+        million. In efforts to create a leaner, more mobile force, the PLA Army (PLAA) has steadily
+        reduced active-duty personnel in the last three decades but still outnumbers other services with
+        roughly 1 million soldiers in 2022. The PLAN and PLA Air Force (PLAAF) have grown in size
+        since 2015, indicating their increasing importance. By 2022, the PLAN Marine Corps expanded
+        from two to six combined arms brigades and was supplemented with aviation and special forces
+        units, with the intent of becoming increasingly capable of protecting China’s overseas interests.
+        The PLA Rocket Force (PLARF), formerly the Second Artillery, manages the PRC’s land-based
+        nuclear and conventional missile units. The Strategic Support Force (SSF) centralizes the PLA’s
+        strategic space, cyberspace, electronic warfare, information, communications, and psychological
+        warfare missions and capabilities. Lastly, the JLSF handles quartermaster, transportation, medical
+        services, and other logistic functions to enhance PLA’s joint capabilities during peace and war.
       </p>
 
-      <h3>Electronic Warfare</h3>
+      <h2>DEVELOPMENTS IN THE PLA’S MODERNIZATION AND REFORM</h2>
       <p>
-        The PLA considers EW to be an integral component of modern warfare and seeks to
-        achieve information dominance in a conflict through the coordinated use of cyberspace
-        and electronic warfare to protect its own information networks and deny the enemy the
-        use of the electromagnetic spectrum. The PRC’s EW strategy emphasizes suppressing,
-        degrading, disrupting, or deceiving enemy electronic equipment throughout the continuum
-        of a conflict.
+        The PRC maintains its goal to achieve a fully modernized national defense and military force by
+        2035 and for the PLA to become a world-class military by 2049. The force also progresses toward
+        its 2027 benchmark of military modernization that aligns with the 100th anniversary of the PLA’s
+        founding on August 1, 1927. The 2027 benchmark, introduced during the 14th Five Year Plan
+        (2021-2025), represents the start of the new three-step development strategy that continues Xi’s
+        approach of military reform to transform the PLA. The original three-step modernization strategy
+        sought to achieve mechanization by 2020; modernization of military theory, organization,
+        personnel, and equipment by 2035; and to become a world-class force by mid-century. With basic
+        mechanization considered achieved in 2020, the 2027 goal is a short-term marker and represents a
+        modification, not a compression in timeline, for China’s ambition to achieve complete military
+        modernization of the PLA by 2035. The PLA centenary goal set by the CCP accelerates the
+        integrated development of mechanization, informatization, and intelligentization and to field a
+        combat-ready force with improved strategic capabilities to defend national sovereignty, security,
+        and development interests by 2027.
       </p>
       <p>
-        The PLA will likely use electronic warfare prior to a conflict as a signaling mechanism
-        to warn and deter adversary offensive action. Potential EW targets include adversary
-        systems operating in radio, radar, microwave, infrared and optical frequency ranges, as
-        well as adversary computer and information systems. PLA EW units routinely train to
-        conduct jamming and anti-jamming operations against multiple communication and radar
-        systems and Global Positioning System (GPS) satellite systems during force-on-force
-        exercises. These exercises test operational units’ understanding of EW weapons,
-        equipment, and procedures and they also enable operators to improve confidence in
-        their ability to operate effectively in a complex electromagnetic environment.
-      </p>
-      <p>
-        In addition, the PLA reportedly tests and validates advances in EW weapons’ R&amp;D during
-        these exercises.
-      </p>
-
-      <h3>Cyberspace Warfare</h3>
-      <p>
-        The development of cyberspace warfare capabilities is consistent with PLA writings,
-        which identify IO – comprising cyberspace, electronic, space, and psychological warfare
-        – as integral to achieving information superiority early in a conflict as an effective means
-        to counter a stronger foe. The PRC has publicly identified cyberspace as a critical domain
-        for national security and declared its intent to expedite the development of its cyber forces.
-      </p>
-      <p>
-        The PRC poses a sophisticated, persistent cyber-enabled espionage and attack threat to
-        military and critical infrastructure systems and presents a growing influence threat. The
-        PRC seeks to create disruptive and destructive effects—from denial-of-service attacks
-        to physical disruptions of critical infrastructure—to shape decision making and disrupt
-        military operations beginning in the initial stages and throughout a conflict. The PRC
-        can launch cyberspace attacks that, at a minimum, can cause localized, temporary
-        disruptions to critical infrastructure within the United States, and the PRC believes
-        these capabilities are even more effective against militarily superior adversaries that
-        depend on information technologies.
-      </p>
-      <p>
-        As a result, the PRC is advancing its cyberspace attack capabilities and has the ability
-        to launch cyberspace attacks—such as disruption of a natural gas pipeline for days to
-        weeks—in the United States.
-      </p>
-      <p>
-        Authoritative PLA sources call for the coordinated employment of space, cyberspace,
-        and EW as strategic weapons to “paralyze the enemy’s operational system of systems”
-        and “sabotage the enemy’s war command system of systems” early in a conflict.
-        PLA writings judge other countries have effectively used cyberspace warfare and other IO
-        in recent conflicts and argue for attacks against C2 and logistics networks to affect an
-        adversary’s ability to make decisions and take actions in the early stages of conflict.
-      </p>
-      <p>
-        The PLA also considers cyberspace capabilities to be a critical component in its overall
-        integrated strategic deterrence posture, alongside space and nuclear deterrence. PLA
-        studies discuss using warning or demonstration strikes—strikes against select military,
-        political, and economic targets with clear awing effects—as part of deterrence. Accordingly,
-        the PLA probably seeks to use its cyber-reconnaissance capabilities to collect data for
-        intelligence and cyberspace attack purposes; to constrain an adversary’s actions by targeting
-        network-based logistics, C2, communications, commercial activities, and civilian and defense
-        critical infrastructure; and, to serve as a force-multiplier when coupled with kinetic attacks
-        during armed conflict.
-      </p>
-      <p>
-        In addition, PLA publications emphasize the importance of cyber defense to defend the
-        PRC’s critical infrastructure and military system-of-systems against adversary reconnaissance
-        and attacks. The PLA likely views cyber defense as including preventative measures as well
-        as offensive actions to deter or disrupt adversary cyberspace activity.
-      </p>
-      <p>
-        The PLA may further change how it organizes and commands IO, particularly as the SSF
-        continues to develop its capabilities and further integrate into joint planning, exercises, and
-        operations with other PLA forces. The SSF likely is generating synergies by combining
-        national-level cyberspace reconnaissance, attack, and defense capabilities in its organization,
-        alongside other strategic IO capabilities, and integrating into theater command planning and
-        operations.
+        PLA modernization in training includes realistic simulation and use of virtual reality and
+        enhancing the military’s strategic capacity. The PLA has a minimal reliance on imports and has
+        the ability to independently manufacture and develop equipment comparable to the most advanced
+        U.S. and Russian equipment, accelerating their ability to modernize. The CCP continues to
+        prioritize modernizing PLA activities in near and distant battlefields by integrating system-vssystem operations featuring information dominance, precision strikes, and joint operations.
       </p>
 
-      <h3>CYBERSPACE ACTIVITIES DIRECTED AGAINST THE U.S. DEPARTMENT OF DEFENSE (DOD)</h3>
+      <h2>PEOPLE’S LIBERATION ARMY ARMY (PLAA)</h2>
+      <h3>Key Takeaways</h3>
       <p>
-        China-based intrusions continued to target computer systems around the world, including
-        those owned by the U.S. Government, throughout 2022. These and past intrusions exploit
-        known vulnerabilities to actively target U.S. government networks to steal intellectual
-        property and develop access into sensitive networks.
+        ● The PLAA continues to modernize equipment and focus on combined arms and joint training
+        in effort to meet the goal of becoming a world-class military.
       </p>
       <p>
-        The PRC uses its cyberspace capabilities, not only to support intelligence collection against
-        U.S. academic, economic, military, and political targets, but also to exfiltrate sensitive
-        information from the critical defense infrastructure and research institutes to gain economic
-        and military advantage and possibly for cyberattack preparations. The targeted information
-        can benefit the PRC’s defense high-technology industries, support the PRC’s military
-        modernization, provide the PRC’s leadership with insights into U.S. plans and intentions,
-        and enable diplomatic negotiations.
+        ● The PLAA demonstrated a new long-range fire capability in the PLA military response to the
+        August 2022 U.S. CODEL visit to Taiwan.
       </p>
       <p>
-        Moreover, targeted information could enable their cyberspace forces to build an operational
-        picture of U.S. defense networks, military disposition, logistics, and related military
-        capabilities that could be exploited prior to or during a crisis. The access and skillset required
-        for these intrusions are similar to those necessary to conduct cyberspace operations in an
-        attempt to deter, delay, disrupt, and degrade DoD operations prior to or during a conflict.
-        Taken together, these cyber-enabled campaigns either directly or indirectly impact the United
-        States’ ability to project, or defend against, military action.
+        ● The PLAA continues to incorporate a twice-a-year conscript intake. The long-term effects of
+        the policy are not clear.
+      </p>
+      <p>
+        The PLAA has approximately 970,000 active-duty personnel in combat units and is the primary
+        ground fighting force in the PLA. The 2020 National Defense University’s Science of Military
+        Strategy described the PLAA’s development as a transition from a regional defense to a global
+        combat force.
+      </p>
+      <p>
+        <strong>Force Structure and Organization.</strong> The PLAA continues to replace legacy equipment with
+        newer systems. The major force restructuring required by the 2016 and 2017 PLA reforms is
+        complete, but many units are still in the process of upgrading equipment.
+      </p>
+      <p>
+        The PLAA is organized into five Theater Army Commands, the Xinjiang Military District, and the
+        Tibet Military District. The PLAA has 13 group armies, which are comprised of multiple
+        combined-arms brigades that serve as the PLAA's primary maneuver force. The brigades vary in
+        size and composition. The PLAA delineates its combined-arms brigades into three types: light
+        (high-mobility, mountain, air assault, and motorized), medium (wheeled armored vehicles), and
+        heavy (tracked armored vehicles), with sizes ranging from approximately 4,500 to 5,000
+        personnel. Each group army controls six additional brigades responsible for operational element
+        functions: an artillery brigade, an air defense brigade, an army aviation (or air assault) brigade, a
+        special operations forces (SOF) brigade, an engineer and chemical defense brigade, and a
+        sustainment brigade; however, some variations exist with at least one group army per theater
+        separating their engineering and chemical defense brigades into separate units. Although the
+        PLAA has standardized its group armies, it does retain a number of nonstandard divisions and
+        brigades that exist outside of the group armies. These units are typically located in areas the CCP
+        considers sensitive including Xinjiang, Tibet, Hong Kong, and Beijing. The PLAA also commands
+        several border and coastal defense brigades under the Theater Army Commands and regiments
+        under the Xinjiang and Tibet Military Districts.
+      </p>
+      <p>
+        <strong>Capabilities and Modernization.</strong> To meet the stated ambitions to become a world-class military,
+        the PLAA continues systems modernization and combined arms and joint training. However, they
+        still employ a mix of modern and legacy military equipment. The PLAA continues focusing
+        training on fighting as combined arms formations while adapting to the twice-a-year conscript
+        induction change.
+      </p>
+      <p>
+        The PLAA's 15 SOF brigades provide group army commanders with an organic unit capable of
+        executing special operations. Typical PLAA SOF brigade missions include raids, harassment
+        operations, target seizure and control, special reconnaissance, precision strike guidance, and rescue
+        operations. The PLA continues to prioritize SOF for modernization with the fielding of the new
+        QBZ-191 military service rifle and the CSK-series of vehicles. Observed SOF training in 2022
+        included airborne parachuting, small unit tactics and maritime operations.
+      </p>
+      <p>
+        PLAA Aviation and Air Assault units remained a focus of development in 2022. PLAA training
+        events and reports in PRC media show that support to amphibious operations, multi-dimensional
+        assaults, developing close air support tactics, and manned-unmanned teaming (MUM-T) are now
+        a standard part of training. Training in 2022 also included numerous examples of helicopters
+        executing nighttime flight operations, over water maneuver, and ultra-low altitude flying. PLAA
+        Aviation works directly with ground units to enhance its ability to support air assault operations
+        and conduct air strikes. Highlights from PLAA Aviation joint training in 2022 included army
+        aviation helicopters continuing to train for operations with PLAN landing ships. 2022 saw the first
+        observed evidence of PLAA helicopters being able to rearm and refuel onboard PLAN vessels
+        along with continued progress towards maritime operations. The two PLAA Air Assault brigades
+        continued extensive training on helicopter insertion, area security, and aerial reconnaissance. The
+        PLAA envisions its Aviation and Air Assault units employing their three-dimensional maneuver,
+        firepower, and assault capabilities to act as a main combat force, support a greater joint operation,
+        or conduct non-war military operations outside China.
+      </p>
+      <p>
+        PLAA air defense units in 2022 concentrated on improving their tactical air defense against low
+        and slow threats like Uncrewed Aerial Systems (UAS) and loitering munitions to meet evolving
+        air defense requirements. Hybrid self-propelled air defense artillery systems (SPADA), gun air
+        defense artillery, small focused electronic warfare systems, and Man-Portable Air Defense
+        Systems (MANPADS) form the core of the PRC’s evolving solution to countering tactical UAS.
+        One of the systems with high counter UAS potential being fielded to light combined arms brigades
+        is armed with a six barreled 25mm rotary cannon, which possibly uses Programmable Timed Fuse
+        Pre-Fragmented (PTFP) rounds, and also mounts four FN-16 MANPADS on its turret.
+      </p>
+      <p>
+        During 2022, the PLAA continued to emphasize the fielding and application of modern EW
+        capabilities that are designed to maximize a unit’s combat effectiveness by detecting and
+        degrading/disrupting adversary command and control communications as well as complicating an
+        adversary’s use of tactical intelligence, surveillance, and reconnaissance (ISR) systems. Similar to
+        the combined arms brigade’s fielding of EW capabilities, the PLAA’s air defense forces have
+        rapidly fielded new counter-air electronic attack capabilities that will complement traditional air
+        defense and support the PLA-wide anti-access, area-denial (A2AD) mission.
+      </p>
+      <p>
+        <strong>Readiness.</strong> In 2022, the PLAA continued to improve its methods and standards of training
+        combined arms units. Training encompassed individual to collective soldier events integrating
+        reconnaissance, infantry, artillery, armor, engineers, and signal units. In addition to continued
+        PLAA deployments to the LAC on the Indian border, the PLAA conducted multiple “around the
+        clock” large-scale exercises in training areas throughout the country to include joint operations in
+        response to the U.S. and Taiwan actions in 2022.The PLAA used its new PCH191 long-range
+        rocket artillery system during live fire events along China’s east coast as a response to the U.S.
+        CODEL in August 2022. The new long-range MRL is capable of striking Taiwan from mainland
+        China.
+      </p>
+      <p>
+        In an effort to help develop a more professional military, adjustments were made to the recruitment
+        and promotion of PLAA enlisted personnel. The changes aimed to accelerate the integrated
+        development of mechanization, informatization, and intelligentization. To expand the pool of
+        educated and technically proficient personnel for conscription, the recruitment age for university
+        graduates increased from 24 to 26. The "4+X" service policy was also implemented for the NCO
+        Corps, creating flexibility for intermediate- and senior-level NCOs by helping avoid unwanted
+        demobilization if an NCO fails to meet promotion criteria after their 4-year contract.
       </p>
 
-      <h3>Intelligentized Warfare</h3>
+      <p><strong>Major Ground Units</strong></p>
+      <pre>{`
+  (Map / Table placeholder in original text)
+`}</pre>
+
+      <h2>PEOPLE’S LIBERATION ARMY NAVY (PLAN)</h2>
+      <h3>Key Takeaways</h3>
       <p>
-        In recent years, the PLA has increasingly emphasized intelligentization as a leading element
-        of its modernization plans. The PRC is in the middle of its 14th Five-Year Plan, covering
-        years 2021-2025, in which it outlined the development of intelligentized weapons as
-        important to keep pace with modern warfare.
+        ● The PRC has numerically the largest navy in the world with an overall battle force of over 370
+        ships and submarines, including more than 140 major surface combatants. The PLAN is largely
+        composed of modern multi-mission ships and submarines.
       </p>
       <p>
-        Beijing is applying its research into AI technologies, such as machine learning and
-        human-machine teaming, to military processes, such as decision-making to ultimately
-        gain a cognitive advantage in future warfare.
+        ● The PLAN commissioned its eighth RENHAI class cruiser in late 2022 and is continuing
+        construction of the RENHAI Guided Missile Cruiser (CG), the LUYANG III MOD Guided
+        Missile Destroyer (DDG), and the JIANGKAI II Guided Missile Frigate (FFG), as well as
+        beginning production on a new class of frigate, the JIANGKAI III.
       </p>
       <p>
-        PLA strategists have stated new technologies would enhance the PLA’s capability to
-        process and utilize information at scale and machine speed, allowing decision-makers to
-        plan, operate, and support cross-domain unconventional and asymmetrical fighting in the
-        battlefield. The PLA is researching various applications for AI including support for missile
-        guidance, target detection and identification, and autonomous systems.
+        ● In 2022, the PLAN commissioned its third YUSHEN-class Amphibious Assault Ships (LHA)
+        and has likely begun construction on a fourth as of early 2023.
       </p>
       <p>
-        The PLA is exploring next-generation operational concepts for intelligentized warfare,
-        such as attrition warfare by intelligent swarms, cross-domain mobile warfare, AI-based
-        space confrontation, and cognitive control operations. The PLA also considers unmanned
-        systems to be critical intelligentized technology, and is pursuing greater autonomy for
-        unmanned aerial, surface, and underwater vehicles to enable manned and unmanned
-        teaming, swarm attacks, optimized logistic support, and distributed ISR, among other
-        capabilities.
+        ● In 2022, the PLAN launched its third aircraft carrier, CV-18 Fujian.
+      </p>
+      <p>
+        ● In the near-term, the PLAN will have the ability to conduct long-range precision strikes against
+        land targets from its submarine and surface combatants using land-attack cruise missiles,
+        notably enhancing the PRC’s power projection capability.
+      </p>
+      <p>
+        ● The PRC continues to challenge foreign military activities in its EEZ in a manner that is
+        inconsistent with the rules of customary international law as reflected in the United Nations
+        Convention on the Law of the Sea. At the same time, the PLAN conducts activities in the
+        EEZs of other countries, including the United States, Australia, Philippines, Vietnam, and
+        Malaysia.
+      </p>
+      <p>
+        The PRC has numerically the largest navy in the world with an overall battle force of over 370
+        ships and submarines, including over 140 major surface combatants. The PLAN is largely
+        composed of modern multi-mission ships and submarines. The PLAN commissioned its eighth
+        RENHAI-class cruiser in late 2022 and continued construction of the RENHAI cruiser, LUYANG
+        III MOD destroyer and the JIANGKAI II-class frigate as well as beginning production of the
+        JIANGKAI III-class frigate. The PLAN commissioned its second YUSHEN-class amphibious
+        assault ship (TYPE 075 LHA) in December 2021 and the third in October 2022 with the first ship
+        in the class achieving initial operating capability (IOC) in March 2022. Construction on a fourth
+        YUSHEN-class LHA likely began in early 2023. In June 2022, the PLAN launched its third aircraft
+        carrier, CV-18 Fujian.
+      </p>
+      <p>
+        The PRC has long challenged foreign military activities in its EEZ in a manner that is inconsistent
+        with the rules of customary international law as reflected in the United Nations Convention on the
+        Law of the Sea. However, in recent years, the PLA has begun conducting the same types of
+        military activities inside and outside the FIC in the EEZs of other countries, including the United
+        States. This activity highlights the PRC’s double standard in the application of its interpretation
+        of international law. Examples include sending intelligence collection ships to collect on military
+        exercises such as the RIMPAC exercise off Hawaii in 2014, 2018, and 2022, TALISMAN SABER
+        off Australia in 2017, 2019, and 2021, and operating near Alaska in 2017 and 2021. Chinese
+        intelligence collection ships also operated near sensitivity defense facilities off Australia’s west
+        coast in May 2022 and near Japan in July 2022. PRC survey ships are also extremely active in the
+        SCS and they frequently operate in the claimed EEZs of other nations in the region such as the
+        Philippines, Vietnam, and Malaysia.
+      </p>
+      <p>
+        The PRC’s 2019 defense white paper described the PLAN as adjusting to changes in the strategic
+        requirements of near seas defense and far seas protection, noting that it was “speeding up the
+        transition of its tasks from defense on the near seas to protection missions on the far seas...”
+        Towards the PRC’s goal of building a “strong and modernized navy force,” the PLAN has replaced
+        or updated its previous generations of platforms that had limited capabilities in favor of larger,
+        modern multi-mission combatants. Today, the PLAN is largely composed of modern multi-role
+        platforms featuring advanced anti-ship, anti-air, and anti-submarine weapons and sensors. The
+        PLAN is also emphasizing maritime joint operations and joint integration with the other branches
+        of the PLA. This modernization aligns with the PRC’s growing emphasis on the maritime domain
+        and increasing demands for the PLAN to operate at greater distances from mainland China.
+      </p>
+      <p>
+        The PLAN organizes, mans, trains, and equips the PLA’s naval and naval aviation forces, as well
+        as the PLA Marine Corps (PLAMC), which is subordinate to the PLAN. The PLAN continues to
+        implement structural reforms that began in late 2015 and early 2016. The PLA-wide reforms
+        removed the PLAN headquarters from conducting operations, which became the purview of the
+        PLA’s joint theater commands, and focused it on organizing, manning, training, and equipping
+        naval forces.
+      </p>
+      <p>
+        <strong>Missions.</strong> The PLAN continues to develop into a global force, gradually extending its operational
+        reach beyond East Asia into a sustained ability to operate at increasingly longer ranges, including
+        a continuous presence in the Gulf of Aden. The PLAN’s latest surface and subsurface platforms
+        enable combat operations beyond the reach of the PRC’s land-based defenses. In particular, the
+        PRC’s growing force of aircraft carriers extend air defense coverage of deployed task groups
+        beyond the range of land-based defenses, enabling operations farther from China’s shore. The
+        PLAN’s emerging requirement for sea-based land-attack systems will also enhance the PRC’s
+        ability to project power. Furthermore, the PLAN now has a sizable force of highly capable
+        logistical replenishment ships to support long-distance, long-duration deployments, including two
+        new FUYU-class fast combat support ships (AOEs) built specifically to support aircraft carrier
+        and large-deck amphibious ship operations. The PLAN’s expanding fleet of large modern
+        amphibious warships will enable it to conduct in a wide range of expeditionary operations
+        wherever PRC interests are threatened or in support of PRC participation in internationally
+        sanctioned operations. The expansion of naval operations beyond China’s immediate region will
+        also facilitate its non-war military activities and further legitimize the PRC’s growing global
+        military posture, including at its base in Djibouti.
+      </p>
+      <p>
+        The PRC is in the beginning stages of operating what the PLA calls its “multi-carrier force.” The
+        PRC continues to learn lessons from operating its first aircraft carrier, Liaoning. Its first
+        domestically-built aircraft carrier, CV-17 Shandong, was launched in 2017 and commissioned in
+        December 2019. The PRC’s next generation of carriers, the new FUJIAN-class – the first of which
+        it is currently outfitting – will have greater endurance and an electromagnetic catapult launch
+        system making it capable of launching various types of specialized fixed-wing aircraft for
+        missions such as airborne early warning and EW. This will increase the striking power of a
+        potential PLAN carrier battle group when deployed to areas beyond China’s immediate
+        periphery. CV-18 Fujian launched in June 2022 and is expected to commission in 2024.
+      </p>
+      <p>
+        The PLAN’s newest amphibious ships, the YUSHEN LHA and YUZHAO amphibious transport
+        docks (LPD), are modern platforms capable of regional and global expeditionary missions in
+        support of both wartime and non-war contingency operations either singly or as part of capable
+        and flexible task groups composed of multiple amphibious ships and surface combatants.
+      </p>
+      <p>
+        The PLAN continues to build multiple new, large auxiliary ships that can support force projection
+        operations, including large logistic ships such as the FUYU fast combat support ship (AOE) and
+        specialized platforms for intelligence collection ships (AGI) and ocean surveillance ships (AGOS).
+        The PLAN’s ability to perform missions beyond the FIC is modest but growing as it gains more
+        experience operating in distant waters and acquires larger and more advanced platforms. The
+        PRC’s experience in extended range operations primarily comes from extended task group
+        deployments and its ongoing counterpiracy mission in the Gulf of Aden. Other recent extended
+        range PLAN operations include the following:
+      </p>
+      <p>
+        ● In September 2022, a PLAN task group that included a RENHAI class cruiser operated with
+        four Russian combatants near the Aleutian Islands and was shadowed by U.S. Coast Guard
+        ships and aircraft.
+      </p>
+      <p>
+        ● In December 2022 and January 2023, a PLAN task force including a LUYANG III DDG
+        operated in the South Pacific near French Polynesia.
+      </p>
+      <p>
+        ● In December 2022, CV-16 Liaoning with escorts including two RENHAI-class cruisers
+        operated in the Philippine Sea near Japan’s Daito Islands in an area similar to where Liaoning
+        deployed to in December 2021.
+      </p>
+      <p>
+        ● In February 2023, a PLAN task group, that included YUSHEN-class LHA-31, conducted
+        training in the SCS and Western Pacific. This was the first extended range deployment for the
+        newly commissioned LHA.
+      </p>
+      <p>
+        ● The PLAN sustained its counter-piracy task groups in the Gulf of Aden through 2022, a 14year effort that is the PRC’s first enduring naval operation beyond the Indo-Pacific region. In
+        January 2022, the 39th Naval Escort Task Force conducted a three-day escort of Chinese fishing
+        vessels in the Gulf of Aden. Overall, according to Chinese state media, the PLAN has expanded
+        its original mission of escorting Chinese-flagged vessels and vessels from the World Food
+        Program to escorting merchant ships from other countries as well.
+      </p>
+      <p>
+        <strong>Force Structure.</strong> The PLAN is the largest navy in the world with a battle force of over 370
+        platforms, including major surface combatants, submarines, ocean-going amphibious ships, mine
+        warfare ships, aircraft carriers, and fleet auxiliaries. Notably, this figure does not include
+        approximately 60 HOUBEI-class patrol combatants that carry anti-ship cruise missiles (ASCM).
+        The PLAN’s overall battle force is expected to grow to 395 ships by 2025 and 435 ships by 2030.
+        Much of this growth will be in major surface combatants. The PLAN’s force structure consists of
+        three fleets with subordinate submarine flotillas, surface ship flotillas, aviation brigades, and naval
+        bases. The PLAN’s Northern Theater Navy is subordinate to the Northern Theater Command, the
+        Eastern Theater Navy is subordinate to the Eastern Theater Command, and the Southern Theater
+        Navy is subordinate to the Southern Theater Command.
+      </p>
+      <p>
+        <strong>Submarines.</strong> The PLAN has placed a high priority on modernizing its submarine force, but its
+        force structure continues to grow modestly as it works to mature its force, integrate new
+        technologies, and expand its shipyards. The PLAN currently operates six nuclear-powered ballistic
+        missile submarines (SSBN), six nuclear-powered attack submarines (SSN), and 48 dieselpowered/air-independent powered attack submarines (SS). The PLAN’s submarine force is
+        expected to grow to 65 units by 2025 and 80 units by 2035 despite the ongoing retirement of older
+        hulls due to an expansion of submarine construction capacity.
+      </p>
+      <p>
+        The PRC continues to increase its inventory of conventional submarines capable of firing advanced
+        anti-ship cruise missiles (ASCM). Between the mid-1990s and mid-2000s, the PLAN purchased
+        12 Russian-built KILO-class SS units, eight of which are capable of launching ASCMs. China’s
+        shipyards have delivered 13 SONG-class SS units (Type 039) and 21 YUAN-class diesel-electric
+        air-independent propulsion attack submarine (SSP) (Type 039A/B). The PRC is expected to
+        produce a total of 25 or more YUAN-class submarines by 2025. In late 2021, the PLAN retired
+        the first two KILO-class submarines (both non-ASCM capable) purchased from Russia in the
+        1990s.
+      </p>
+      <p>
+        Over the past 15 years, the PLAN has constructed 12 nuclear submarines – two SHANG I-class
+        SSNs (TYPE 093), four SHANG II-class SSNs (TYPE 093A), and six JIN-class SSBNs (TYPE
+        094). Equipped with the CSS-N-14 (JL-2) submarine-launched ballistic missile (SLBM)
+        (3,900NM) or the CSS-N-20 (JL-3) SLBM (5,400NM), the PLAN’s six operational JIN-class
+        SSBNs represent the PRC’s first credible sea-based nuclear deterrent. Each JIN-class SSBN can
+        carry up to 12 missiles. In 2019, Beijing displayed these missiles at the PRC’s 70th founding
+        anniversary parade. The PRC’s next-generation TYPE 096 SSBN will reportedly be armed with
+        follow-on longer range SLBM. The TYPE 096 will likely begin construction in the near future.
+        Based on the projected 30-plus-year service life of the platforms, the PRC will operate its JIN and
+        TYPE 096 SSBN fleets concurrently in the 2030s. This would align with Xi’s 2018 directive for
+        the SSBN force to achieve “stronger growth.”
+      </p>
+      <p>
+        The PRC launched two SHANG III (TYPE 093B)-class guided-missile nuclear attack submarines
+        (SSGN) between May 2022 and January 2023 and could have three hulls of this class operational
+        hulls by 2025. This new SHANG-class variant will enhance the PLAN’s anti-surface warfare
+        capability and could provide a clandestine land-attack option if equipped with land-attack cruise
+        missiles (LACM). The PLAN is also improving its anti-submarine warfare capabilities through
+        the development of its surface combatants and special mission aircraft, but it continues to lack a
+        robust deep-water anti-submarine warfare (ASW) capability.
+      </p>
+      <p>
+        <strong>Surface Combatants.</strong> The PLAN remains engaged in a robust shipbuilding program for surface
+        combatants. As of late 2022, the PLAN was building an aircraft carrier, a new batch of guidedmissile cruisers, guided-missile destroyers, and a new batch of guided missile frigates, including
+        a new 054 variant designated JIANGKAI III. These assets will significantly upgrade the PLAN’s
+        air defense, anti-ship, and anti-submarine capabilities and will be critical as the PLAN expands its
+        operations beyond the range of the PLA’s shore-based air defense systems. By the end of 2019,
+        the PLAN had commissioned its 30th JIANGKAI II-class FFG, reportedly completing the
+        production run. However, in 2021 PRC media reported production had restarted with at least three
+        additional hulls commissioned by the end of 2022 with a total possible end production run of more
+        than 40 hulls. The PLAN augmented its littoral warfare capabilities, especially for operations in
+        the ECS and SCS, with the high-rate production of the JIANGDAO-class Corvettes (FFLs) (TYPE
+        056 and TYPE 056A). The PLAN commissioned the 72nd JIANGDAO in February 2021,
+        completing the production run. The PLAN subsequently transferred the early flight TYPE 056
+        variants, likely 22 ships total, to the China Coast Guard in 2021, probably due to the early models’
+        lack of towed-array sonar. The remaining JIANGDAOs (056A) are equipped with a towed-array
+        sonar and are, thus, capable of contributing to ASW operations.
+      </p>
+      <p>
+        The PLAN has expanded its force of large surface combatants with two programs, the LUYANG
+        III DDG and the RENHAI CG. By the end of 2022, the PRC had commissioned 25 LUYANG III
+        DDGs—including 12 lengthened LUYANG III MOD DDGs – with additional hulls under
+        construction. Both the standard LUYANG III and the LUYANG III MOD have a 64-cell
+        multipurpose vertical launch system (VLS) capable of launching cruise missiles, surface to air
+        missiles, and anti-submarine missiles, and the MOD variants will be capable of carrying the new
+        Z-20 anti-submarine helicopter by late 2022, eight RENHAI-class CG’s were in commission in
+        the PLAN with additional hulls under construction. The RENHAI has 112 VLS cells and can carry
+        a large load out of weapons including ASCMs, surface-to-air missiles (SAMs), torpedoes, and
+        anti-submarine weapons along with likely LACMs and anti-ship ballistic missiles (ASBM) when
+        those become operational. In early 2022, the PLAN released a video of RENHAI CG test launching
+        an anti-ship ballistic missile with a reported/estimated range of 540NM. The new ship launched
+        anti-ship ballistic missile can possibly be launched by the LUYANG III and LUYANG III MOD
+        DDGs.
+      </p>
+      <p>
+        The PLAN continues to emphasize anti-surface warfare capabilities in its force development. The
+        PLAN’s frigates and corvettes, as well as modernized older combatants, carry variants of the YJ83/ YJ-83J ASCM (135NM), while newer surface combatants such as the LUYANG II-class
+        DDGs are fitted with the YJ-62 (270NM). The LUYANG III-class DDGs and the RENHAI-class
+        CGs are fitted with a variant of the PRC’s newest ASCM, the YJ-18A (290NM). A few
+        modernized destroyers have been retrofitted with the supersonic YJ-12A ASCM (270NM), and
+        the next-generation frigates may also receive this missile. Eight of the PLAN’s 12 KILO-class
+        SSs are equipped with the Russian built SS-N-27b ASCM (120NM). The PRC’s SONG-class SS,
+        YUAN-class SSP, and SHANG-class SSN field the PLAN’s newest domestic submarine-launched
+        ASCM, the YJ-18 which constitutes an improvement over the SS-N-27b ASCM. It is possible the
+        PRC is developing a launcher that can fit inside a standard commercial shipping container for
+        covert employment of the YJ-18 aboard merchant ships.
+      </p>
+      <p>
+        The PLAN recognizes that long-range ASCMs require a robust, over-the-horizon (OTH) targeting
+        capability to realize their full potential. To fill this capability gap, the PLA is investing in joint
+        reconnaissance, surveillance, command, control, and communications systems at the strategic,
+        operational, and tactical levels to provide high-fidelity targeting information to surface and
+        subsurface launch platforms.
+      </p>
+      <p>
+        As the PLAN continues to transition into a global multi-mission force, the addition of land-attack
+        capabilities to its modern array of anti-surface and anti-air capabilities is a logical next step. In the
+        coming years, the PLAN will probably field LACMs on its newer cruisers and destroyers and the
+        developmental SHANG III SSGN. The PLAN could also retrofit its older surface combatants and
+        submarines with land-attack capabilities as well. The addition of land-attack capabilities to the
+        PLAN’s surface combatants and submarines would provide the PLA with flexible long-range
+        strike options. This would allow the PRC to hold land targets at risk beyond the Indo-Pacific
+        region.
+      </p>
+      <p>
+        <strong>Amphibious Warfare Ships.</strong> The PRC’s investment in LHA ships signals its intent to continue
+        to develop its expeditionary warfare capabilities. In April 2021, the PRC commissioned the first
+        YUSHEN-class LHA (TYPE 075) followed by the commissioning of the second hull in December
+        2021. A third YUSHEN-class LHA was commissioned in October 2022 while the first hull
+        achieved IOC in March 2022, and there are indications of a probable fourth hull under construction
+        in early 2023.The YUSHEN class are highly capable large-deck amphibious ships that will provide
+        the PLAN with an all-aspect expeditionary capability including the ability to carry a large number
+        of landing craft, troops, armored vehicles, and helicopters.
+      </p>
+      <p>
+        In addition, the PLAN has eight large YUZHAO-class amphibious transport docks (LPD) (TYPE
+        071) in service. The YUZHAO-class LPDs and YUSHEN-class LHAs provide the PLA with greater
+        capacity, endurance, and more flexibility for long-range operations than the PLAN’s older landing
+        ships, which it has reduced in number over the last decade with obsolete units being decommissioned.
+        The YUSHEN and YUZHAO can each carry several of the new YUYI class air-cushion medium
+        landing craft and/or the conventional YUBU-class utility landing craft, and a variety of helicopters,
+        tanks, armored vehicles and PLAN marines for long-distance expeditionary deployments.
+      </p>
+      <p>
+        <strong>Aircraft Carriers.</strong> In December 2019, the PRC commissioned its first domestically built aircraft
+        carrier, Shandong, which launched in 2017 and completed multiple sea trials during 2018-2019.
+        Shandong was photographed at a base on Hainan Island in the Southern Theater Navy in late 2020
+        and should now be considered to be operational. It is a modified version of the Liaoning (Soviet
+        KUZNETSOV-class) design and likewise uses a ski-jump takeoff method for its aircraft. China
+        launched its third domestically built aircraft carrier, CV-18 Fujian in June 2022 and continued
+        outfitting work early 2023. CV-18 is larger than CV-16 and CV-17 and fitted with an
+        electromagnetic catapult launch system. This design will enable it to support additional fighter
+        aircraft, fixed-wing early-warning aircraft, and more rapid flight operations and thus extend the
+        reach and effectiveness of its carrier-based strike aircraft. CV-18 is expected to be operational by
+        2024, with additional carriers to follow.
+      </p>
+      <p>
+        <strong>Ship Based Aircraft.</strong> The PLAN operates and is developing several aircraft to operate from its
+        carriers and combatants. In addition to the standard J-15 fighter that currently operates from PLAN
+        carriers, there is a catapult-capable J-15 variant in development. The aircraft is currently testing
+        from land-based steam and electromagnetic catapults. Two other J-15 variants are in development
+        – the J-15S tandem-seat variant and the J-15D electronic warfare variant, which is equipped with
+        wingtip electronic support measures/electronic intelligence gathering pods as well as several
+        conformal antennas. The PRC is also developing a carrier capable variant of the fifth-generation
+        J-31 fighter, known as the J-35, which conducted its first flight in 2021. Beyond fighter aircraft,
+        the PRC is refining the design of a carrier-borne airborne early warning (AEW) aircraft, known as
+        the KJ-600. A mockup of the aircraft, which appears externally similar to the E-2C/D Hawkeye,
+        has existed for many years, and prototypes of the KJ-600 have been in flight testing since 2020.
+      </p>
+      <p>
+        Beijing is also developing the Z-20F helicopter for the PLAN, intended for the RENHAI cruisers
+        and LUYANG III MOD destroyers and possibly the YUSHEN LHAs. The Z-20F is similar to the
+        U.S. Navy’s SH-60 and will provide significant improvements in ASW capabilities over the
+        smaller Z-9 and Ka-28 helicopters the PLAN currently operates. The Z-20F will also complement
+        the larger Z-18Fs that operate from the PLAN’s aircraft carriers.
+      </p>
+      <p>
+        Accompanying the manned fixed-wing and rotary aircraft will be UAVs. The PLAN have
+        conducted sea trials on multiple surface combatants with vertical take-off and landing (VTOL)
+        UAVs ranging in wingspan between 3.5 and 4 meters. These UAVs can include the SD-40, CSC005, S-100 CAMCOPTER, and AV-500 UAV systems. These UAVs are used for ISR purposes.
+      </p>
+      <p>
+        <strong>Land Based Aircraft.</strong> The PLAN is in the process of replacing its older variant H-6 bombers with
+        the H-6J, a naval variant of the H-6K operated by the PLAAF. This new and larger advanced
+        maritime strike bomber has six weapons pylons instead of four, advanced avionics, upgraded
+        engines, and can employ the supersonic YJ-12 ASCM (270NM). In 2020, PLAAF H-6Ks were
+        also photographed carrying YJ-12s, significantly increasing the number of bombers available to
+        the PLA for long-range maritime strike missions.
+      </p>
+      <p>
+        The PLAN operates a diverse inventory of fixed-wing special mission aircraft for maritime patrol,
+        airborne early warning aircraft including many of the same variants operated by the PLAAF.
+        However, the PLAN also operates a variant of the Y-9 for anti-submarine warfare and maritime
+        patrol. This aircraft is equipped with a magnetic anomaly detector boom, similar to that of the U.S.
+        Navy’s P-3. This Y-9 ASW variant is equipped with surface-search radar mounted under the nose
+        as well as multiple-blade antennas on the fuselage, probably for electronic surveillance. A small
+        electro-optical (EO)/infrared turret is located just behind the nose wheel, and this variant is
+        equipped with an internal weapons bay in front of the main landing gear.
+      </p>
+      <p>
+        The PRC also operates a fixed-wing medium to large size UAVs from land bases. These UAVs
+        specialize in ISR and include EO/infrared imaging, signals intelligence (SIGINT) capabilities, and
+        synthetic aperture radar (SAR). Many of these UAVs can be operated in satellite communications
+        (SATCOM) mode, extending the datalink and operational ranges well past traditional line-of-sight
+        (LOS) communications. Fixed-wing UAVs include the XIANGLONG high altitude, long
+        endurance UAV; the BZK-005 medium altitude, long endurance UAV; and the ASN-209 medium
+        altitude, medium endurance UAV.
+      </p>
+      <p>
+        <strong>Auxiliary Ships.</strong> The PLAN continues to build a large number of seagoing auxiliary and support
+        ships, including AGIs, AGOs, fleet replenishment oilers, hospital ships, submarine salvage and
+        rescue ships, and various other large auxiliaries for specialized missions. Additionally, the PRC’s
+        first domestically built polar icebreaker, XUELONG 2, became operational in 2019. The ship is
+        operated by the Polar Research Institute of the State Oceanic Administration. In October 2022,
+        XUELONG 2 departed for the PRC’s 39th research mission to Antarctica and was followed one
+        week later by XUELONG 1, marking the third occasion both research vessels have conducted a
+        joint mission in Antarctica.
+      </p>
+      <p>
+        <strong>Current Nuclear Sea-Based Capabilities.</strong> For the PLAN and CCP, the possession of SSBNs has
+        long been seen as an important symbol in achieving great power status. The PRC has six
+        operational TYPE 094 JIN-class SSBNs, and these submarines are conducting at sea deterrent
+        patrols. The PLAN’s JIN SSBNs are equipped to carry up to 12 sea launched ballistic missiles
+        (SLBMs); JL-2 (CSS-N-14) and JL-3 (CSS-N-20) representing the PRC’s first viable sea-based
+        nuclear deterrent. With six operational SSBNs, the PLAN has the capacity to maintain a constant
+        at sea deterrent presence. With a range of approximately 3,900NM, a JIN equipped with the JL-2
+        would have to operate in the mid-Pacific Ocean in order to threaten targets in the western half of
+        the Continental United States (as well as Hawaii and Alaska) or east of Hawaii in order to threaten
+        targets on the East Coast of the United States. PRC sources claim the JL-3 has a range of over
+        5,400NM which would allow a JIN armed with this missile to target portions of CONUS from
+        Chinese littoral waters. The PLAN’s next generation SSBN, the TYPE 096 is expected to enter
+        service the late 2020s or early 2030s. Based on the 30-plus-year service life of the PRC’s firstgeneration SSNs, the PRC will operate the TYPE 094 and TYPE 096 SSBNs concurrently.
+      </p>
+      <h3>PLAN MARINE CORPS (PLANMC)</h3>
+      <p>
+        The PLANMC maintains a presence at the PRC’s first overseas military base in Djibouti that
+        extends The PRC’s military reach and strategic influence in Africa and the Middle East. In 2020,
+        China highlighted a PLANMC SOF unit that had joined the previously assigned PLANMC unit in
+        Djibouti. The PLANMC’s presence in Djibouti provides the PRC with the ability to support a
+        military response to contingencies affecting China’s investments and infrastructure in the region
+        and the approximately 1 million PRC citizens in Africa and 500,000 in the Middle East, although
+        we have not observed the PLANMC in Djibouti assist in evacuation efforts to date. The PLANMC
+        also embarks a contingent of marines with the PLAN’s Gulf of Aden counterpiracy-focused naval
+        escort task force that supports the PRC’s trade interests. Additionally, the PLANMC supports the
+        PRC’s military diplomacy. For example, the PLANMC at Djibouti have trained with Thai,
+        Pakistani, Saudi, South African, and Djiboutian forces.
+      </p>
+      <p>
+        The PLANMC’s roles and missions principally include defending PLA bases in mainland China,
+        the SCS and abroad, conducting amphibious operations to seize and defend small reef and island
+        outposts, and conducting non-war military activities (NWMA). Although the PLANMC has
+        traditionally focused on its task to assault and defense of small islands in the SCS, more recently
+        its focus has grown to include expeditionary operations beyond FIC. The PLANMC’s roles under
+        NWMA support the PRC’s efforts to protect its overseas interests including resources,
+        infrastructure, and citizens abroad.
+      </p>
+      <p>
+        The PLANMC emphasized artillery training throughout 2022 which included training with the
+        PCL-181 vehicle-mounted artillery pieces at various training ranges. The training also
+        incorporated a reconnaissance variant of the Type-05, and it concluded with a multi-brigade
+        culminating event in southern Guangdong. The inclusion of this artillery piece greatly increases
+        the range of their artillery compared to what the PLANMC was previously fielding. Additionally,
+        the PLANMC increased its overall aviation capability in 2022. The PLANMC’s Z-8C helicopter
+        inventory increased to at least 28, bolstering their air assault capability. The PLANMC aviation
+        brigade participated in three-dimensional amphibious assault training during the year which
+        included air assault components, amphibious assault vehicles, and a combination of Landing Craft
+        Air Cushion (LCAC) and assault boats. This training was conducted in conjunction with a
+        commercial roll-on/roll-off vessel as the PLANMC continues to increase their integration with
+        civilian vessels and expanding their sealift means.
       </p>
 
-      <h2>SPACE AND COUNTERSPACE CAPABILITIES</h2>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          The PLA views space superiority, the ability to control the space-enabled information
-          sphere and to deny adversaries their own space-based information gathering and
-          communication capabilities, as critical components to conduct modern
-          “informatized warfare.”
-        </li>
-        <li>
-          The PLA continues to invest in improving its capabilities in space-based ISR, satellite
-          communication, satellite navigation, and meteorology, as well as human spaceflight
-          and robotic space exploration.
-        </li>
-        <li>
-          The PLA continues to acquire and develop a range of counterspace capabilities and
-          related technologies, including kinetic-kill missiles, ground-based lasers, and orbiting
-          space robots, as well as expanding space surveillance capabilities, which can monitor
-          objects in space within their field of view and enable counterspace actions.
-        </li>
-      </ul>
+      <p><strong>Major Naval Units</strong></p>
+      <pre>{`
+  (Map / Table placeholder in original text)
+`}</pre>
+
+      <h2>PEOPLE’S LIBERATION ARMY AIR FORCE (PLAAF) AND PLAN AVIATION</h2>
+      <h3>Key Takeaways</h3>
       <p>
-        <strong>Space Strategy and Doctrine.</strong> The PRC officially advocates for the peaceful
-        use of space and is pursuing agreements in the United Nations on the “non-weaponization”
-        of space. The PRC continues to improve its counterspace weapons capabilities and has
-        enacted military reforms to better integrate cyberspace, space, and EW into joint military
-        operations.
+        ● The PLAAF and PLAN Aviation together constitute the largest aviation force in the IndoPacific region.
       </p>
       <p>
-        The PRC’s space strategy is expected to evolve over time, keeping pace with the application
-        of new space technology. These changes probably will be reflected in published national
-        space strategy documents, through space policy actions, and in programs enacted by
-        political and military leadership.
+        ● The PLAAF is rapidly catching up to Western air forces. The PLAAF continues to modernize
+        with the delivery of domestically built aircraft and a wide range of UASs.
       </p>
       <p>
-        In September 2021, Xi stated that “space is an important strategic asset for the country
-        that must be well managed and utilized and, more importantly, protected,” and called for
-        strengthened space traffic management and international cooperation on security issues
-        to improve effectiveness in managing crises in space.
+        ● In October 2019, the PRC signaled the return of the airborne leg of its nuclear triad after the
+        PLAAF publicly revealed the H-6N as its first nuclear-capable air-to-air refuelable bomber.
       </p>
       <p>
-        The PLA views space superiority, the ability to control the space-enabled information sphere
-        and to deny adversaries their own space-based information gathering and communication
-        capabilities, as a critical component to conduct modern “informatized warfare.” The PRC’s
-        first public mention of space and counterspace capabilities came as early as 1971, largely
-        from academics reviewing foreign publications on ASAT technologies. However, Chinese
-        science and technology efforts on space began to accelerate in the 1980s, most likely as a
-        result of the U.S. space-focused Strategic Defense Initiative.
+        The People’s Liberation Army Air Force (PLAAF) and PLAN Aviation together constitute the
+        largest aviation forces in the region and the third largest in the world, with over 3,150 total aircraft
+        (not including trainer variants or UASs) of which approximately 2,400 are combat aircraft
+        (including fighters, strategic bombers, tactical bombers, multi-mission tactical, and attack aircraft).
+        The PLAAF’s role is to serve as a comprehensive strategic air force capable of long-range airpower
+        projection. The PRC’s 2019 defense white paper described the PLAAF’s missions and tasks as
+        transitioning from territorial air defense to “offensive and defensive operations.” In 2021, General
+        Chang Dingqiu assumed the post of PLAAF commander and continued to enact PLAAF reforms
+        to improve the force’s ability to accomplish joint warfighting tasks. The PLAAF is rapidly catching
+        up to Western air forces. This trend is gradually eroding longstanding and significant U.S. military
+        technical advantages vis-à-vis the PRC in the air domain.
       </p>
       <p>
-        After observing the U.S. military’s performance during the 1991 Gulf War, Kosovo,
-        Afghanistan, and the second Iraq War, the PLA embarked on an effort to modernize
-        weapon systems, across all domains including space, and update its doctrine to focus
-        on using and countering adversary information-enabled warfare.
+        The CMC’s intent is to transform the PLAAF into a more effective and capable force that is
+        proficient at conducting joint operations. The PLAAF is comprised of aviation, airborne, air
+        defense, radar, electronic countermeasure, and communications forces. Amid the wide-ranging
+        reorganization of the PLA, the PLAAF has reorganized into five Theater Command Air Forces,
+        established at least six new air bases, and restructured previously subordinate regiments into
+        brigades under the new bases by disbanding its fighter and fighter-bomber divisions.
       </p>
       <p>
-        The PRC’s perceptions of the importance of space-enabled operations to the United
-        States and its allies has shaped integral components of PLA military planning and
-        campaigns. In addition, space is a critical enabler of beyond-line-of-sight operations
-        for deployed Chinese forces, and the PLA sees counterspace operations as a means
-        to deter and counter a U.S. intervention during a regional military conflict.
+        <strong>Fighters.</strong> The PLAAF and PLAN Aviation continue to field greater numbers of fourth-generation
+        aircraft (now more than 1,300 of 1,900 total fighters, not including trainers) and probably will
+        become a majority fourth-generation force within the next several years. For fifth-generation
+        fighters, the PLAAF has operationally fielded its new J-20 fifth-generation stealth fighter, and
+        PRC social media revealed a new 2-seat variant of the J-20 in October 2021. The PLAAF is
+        preparing upgrades for the J-20, which may include increasing the number of air-to-air missiles
+        (AAM) the fighter can carry in its low-observable configuration, installing thrust-vectoring engine
+        nozzles, and adding super cruise capability by installing higher-thrust indigenous WS-15 engines.
+        Development continues on the smaller FC-31/J-31 for export or as a future naval fighter for the
+        PLAN’s next class of aircraft carriers.
       </p>
       <p>
-        The PRC has claimed that “destroying or capturing satellites and other sensors” would
-        make it difficult for the U.S. and allied militaries to use precision-guided weapons. Moreover,
-        Chinese defense academics suggest that reconnaissance, communication, navigation, and
-        early warning satellites could be among the targets of attacks designed to “blind and
-        deafen the enemy.”
+        <strong>Bombers.</strong> The PRC’s bomber force is currently composed of H-6 Badger variants, which are
+        domestically produced versions of the Soviet Tupolev Tu-16 (Badger) bomber. Despite the relative
+        age of its bomber force, the PLAAF has worked to maintain and enhance the operational
+        effectiveness of these aircraft. In recent years, the PRC has fielded greater numbers of the H-6K,
+        a modernized H-6 variant that integrates standoff weapons and features more-efficient turbofan
+        engines for extended-range. The H-6K can carry six LACMs, giving the PLA a long-range standoff
+        precision strike capability that can range targets in the Second Island Chain from home airfields in
+        mainland China. PLAN Aviation has traditionally fielded the H-6G to support maritime missions.
+        More recently, PLAN Aviation has begun operating the H-6J, a maritime strike version of the H6K with six weapons pylons for ASCMs. This aircraft carries six supersonic long-range YJ-12
+        ASCMs and can attack warships out to the Second Island Chain.
       </p>
       <p>
-        <strong>Space and Counterspace Capabilities.</strong> The PRC’s space enterprise continues
-        to mature rapidly and Beijing has devoted significant economic and political resources to
-        growing all aspects of its space program, from military space applications to civil
-        applications such as profit-generating launches, scientific endeavors, and space exploration.
+        During the PRC’s 70th anniversary parade in 2019, the PLAAF publicly revealed the H-6N, a
+        derivative of the H-6K optimized for long-range strikes. The H-6N features a modified fuselage
+        that allows it to carry externally an air-launched ballistic missile (ALBM) that may be nuclear
+        capable. In October 2020, an H-6N was observed carrying an air-launched ballistic missile. The
+        H-6N’s air-to-air refueling capability also provides it greater reach over other H-6 variants that are
+        not refuelable in air. In 2020, the PLAAF operationally fielded the H-6N bomber, providing a
+        platform for the air component of the PRC’s nascent nuclear triad. The H-6N-equipped unit very
+        likely is developing tactics and procedures to conduct the PLAAF nuclear mission. In addition,
+        the PLAAF is seeking to extend its power projection capability with the development of a new H20 stealth strategic bomber, with official PRC state media stating that this new stealth bomber will
+        have a nuclear mission in addition to filling conventional roles. The PLAAF is also developing
+        new medium- and long-range stealth bombers to strike regional and global targets. PLAAF leaders
+        publicly announced the program in 2016; however, it may take more than a decade to develop this
+        type of advanced bomber.
       </p>
       <p>
-        The PRC’s space enterprise includes the SSF and also encompasses other military,
-        government, and civilian organizations, including state-owned enterprises, academic
-        institutions, and commercial entities. The PLA has historically managed the PRC’s space
-        program and the SSF Space Systems Department is responsible for nearly all PLA space
-        operations.
+        <strong>Special Mission Aircraft.</strong> In 2019, the PLAAF publicly debuted its new Y-9 communications
+        jamming/electronic countermeasures aircraft (known as the GX-11). This aircraft is designed to
+        disrupt an adversary’s battlespace awareness at long ranges. The PLA can conduct air-to-air
+        refueling operations to extend the ranges of its fighter and bomber aircraft equipped with refueling
+        probes using the H-6U, a modified tanker variant of the H-6 bomber, as well as a small number of
+        larger IL-78 Midas. In addition, the PRC is developing a tanker variant of its Y-20 heavy-lift
+        transport, which will enable the PLAAF to expand its tanker fleet and improve the PLAAF’s ability
+        to operate beyond the FIC from bases in mainland China.
       </p>
       <p>
-        The PRC continues to strengthen its military space capabilities despite its public stance
-        against the weaponization of space. The PLA continues to invest in improving its
-        capabilities in space-based ISR, satellite communication, satellite navigation, and
-        meteorology, as well as human spaceflight and robotic space exploration. The PRC has
-        built an expansive ground support infrastructure to support its growing on-orbit fleet
-        and related functions including spacecraft and space launch vehicle manufacture, launch,
-        C2, and data downlink. Additionally, the PRC continues to develop counterspace
-        capabilities—including direct ascent, co-orbital, electronic warfare, and directed energy
-        capabilities—that can contest or deny an adversary’s access to and operations in the
-        space domain during a crisis or conflict.
+        Production and deliveries of the KJ-500—the PRC’s most advanced airborne early warning and
+        control (AEW&C) aircraft—continued at a rapid pace, joining earlier KJ-2000 Mainring and KJ200 Moth variants. These aircraft amplify PLAAF’s ability to detect, track, and target threats in
+        varying conditions, in larger volumes, and at greater distances, It also extends the range of the
+        PLA’s integrated air defense system (IADS) network. Furthermore, the PRC has produced at least
+        one KJ-500 with an aerial refueling probe, which will improve the aircraft’s ability to provide
+        persistent AEW&C coverage.
       </p>
       <p>
-        The PRC has devoted considerable economic and technological resources to growing
-        all aspects of its space program, improving military space applications, developing human
-        spaceflight, and conducting lunar and Martian exploration missions. In 2022, the PRC
-        conducted over 60 successful space launches, which is a three-fold increase compared to
-        five years ago. One of these launches was a technology testing mission of a reusable
-        spaceplane, which was in orbit from August 2022 until May 2023.
+        The PRC’s aviation industry continues to advance with deliveries of its domestic Y-20 large
+        transport aircraft and completion of the world’s largest seaplane, the AG600. These transports will
+        supplement and eventually replace the PRC’s small fleet of strategic airlift assets, which to date,
+        consists of a limited number of Russian-made IL-76 aircraft. These large transports are intended
+        to support airborne C2, logistics, paradrop, aerial refueling, and strategic reconnaissance
+        operations as well as humanitarian assistance and disaster relief (HA/DR) missions.
       </p>
       <p>
-        These 2022 launches carried over 180 satellites into orbit, which is a five-fold increase in
-        satellites deployed compared to five years ago. Last year, the PRC completed construction
-        of the three-module Chinese space station. Furthermore, the PRC has launched a robotic
-        lander and rover to the far side of the Moon; a lander and sample return mission to the
-        Moon; and an orbiter, lander, and rover in one mission to Mars.
+        <strong>Unmanned Aerial Systems (UASs).</strong> The PRC continues its comprehensive UAS modernization
+        efforts, highlighted by the routine appearance of increasingly sophisticated systems across theater
+        and echelon levels. The last three years have seen several key milestones. These include the
+        airshow display and operational appearance of the Xianglong jet-powered UAS, as well as the
+        unveiling of both the supersonic WZ-8 UAS and a redesigned version of the GJ-11 stealth
+        Unmanned Combat Air Vehicle (UCAV). The PLA also continues the maritime use of ISR UASs,
+        featuring both the venerable BZK-005 and the newer TW-328/TB001. The PRC is also expanding
+        the applications of large UASs by demonstrating uses including disaster communications, antisubmarine roles, firefighting, and weather modification. Advanced small UASs are increasingly
+        appearing in both military and civilian applications, with Chinese industry remaining a key
+        exporter of UASs and components of all sizes.
       </p>
       <p>
-        The PRC has launched multiple ASAT missiles that are able to destroy satellites and
-        developed mobile jammers to deny SATCOM and GPS. The PRC’s goal is to become a
-        broad-based, fully capable space power. Its rapidly growing space program—second only
-        to the United States in the number of operational satellites—is a source of national pride
-        and part of Xi’s “China Dream” to establish a powerful and prosperous China. The space
-        program, managed by the PLA, supports both civilian and military interests, including
-        strengthening its science and technology sector, growing international relationships, and
-        modernizing the military.
+        In addition to maturing their current capabilities, the PRC is also signaling its efforts in next
+        generation capabilities. Air and trade shows are displaying growing numbers of autonomous and
+        teaming systems, including for combat applications. In these concepts, Chinese developers are
+        demonstrating an interest in additional growth beyond ISR and EW into both air-to-air and air-toground combat, with a substantial amount of development displaying efforts to produce swarming
+        capability for operational applications.
       </p>
       <p>
-        The PLA continues to acquire and develop a range of counterspace capabilities and related
-        technologies, including kinetic-kill missiles, ground-based lasers, and orbiting space robots,
-        as well as expanding space surveillance capabilities, which can monitor objects in space
-        within their field of view and enable counterspace actions. In concert with its marked
-        improvements in satellite navigation, launch capabilities, and space object surveillance and
-        identification, the PRC is developing electronic warfare capabilities such as satellite jammers;
-        offensive cyberspace capabilities; and directed-energy weapons. Moreover, the PRC has
-        demonstrated sophisticated, potentially damaging on-orbit behavior with space-based
-        technologies.
+        <strong>Air and Missile Defense.</strong> The PLAAF possesses one of the largest forces of advanced long-range
+        SAM systems in the world, composed of Russian-sourced SA-20 (S-300) battalions and
+        domestically produced CSA-9 (HQ-9) and follow-on HQ-9b battalions. To improve its strategic
+        long-range air defenses, in 2019 the PRC acquired the SA-21 (S-400) SAM system from Russia.
+        The PRC is also developing its indigenous CH-AB-X-02 (HQ-19), which will likely have a
+        ballistic missile defense (BMD) capability. The PRC is also developing kinetic-kill vehicle
+        technology to field a mid-course interceptor, which will form the upper layer of a multi-tiered
+        missile defense. The PLA conducted a test of a land-based mid-course interceptor on February 4th,
+        2021.
+      </p>
+      <h3>PLAAF AIRBORNE CORPS</h3>
+      <p>
+        The PLAAF Airborne Corps commands six airborne combined arms brigades, a SOF brigade, an
+        operational support brigade, an aviation transport brigade, a training base, and a new training
+        brigade. The six combined arms brigades consist of three airborne infantry, one air assault, one
+        wheeled airborne mechanized (wheeled air droppable armored vehicles), and one tracked airborne
+        mechanized (tracked air droppable armored vehicles).
       </p>
       <p>
-        The PRC has an operational ground-based anti-satellite (ASAT) missile intended to target
-        low-Earth orbit satellites, and China probably intends to pursue additional ASAT weapons
-        capable of destroying satellites up to geosynchronous Earth orbit. The PRC is employing more
-        sophisticated satellite operations and is probably testing dual-use technologies in space that
-        could be applied to counterspace missions.
+        Each airborne combined arms brigade typically commands four combined arms battalions, an
+        artillery battalion, a reconnaissance and pathfinder battalion, an operations support battalion, and
+        a service support battalion, and possibly a transportation battalion.
+      </p>
+
+      <p><strong>Major Aviation Units</strong></p>
+      <pre>{`
+  (Map / Table placeholder in original text)
+`}</pre>
+
+      <h2>PEOPLE’S LIBERATION ARMY ROCKET FORCE (PLARF)</h2>
+      <h3>Key Takeaways</h3>
+      <p>
+        ● The PLARF is advancing its long-term modernization plans to enhance its “strategic
+        deterrence” capabilities.
       </p>
       <p>
-        <strong>ISR Satellite Capabilities.</strong> The PRC employs a robust space-based ISR
-        capability designed to enhance its worldwide situational awareness. Used for military and
-        civilian remote sensing and mapping, terrestrial and maritime surveillance, and intelligence
-        collection, China’s ISR satellites are capable of providing electro-optical and synthetic
-        aperture radar (SAR) imagery as well as electronic and signals intelligence data. The PRC
-        also exports its satellite technology globally.
+        ● The PRC probably completed the construction of its three new solid-propellant silo fields in
+        2022, which will cumulatively contain at least 300 new ICBM silos and has loaded at least
+        some intercontinental ballistic missiles (ICBMs) into these silos.
       </p>
       <p>
-        As of March 2022, China’s ISR satellite fleet contained more than 290 systems—a quantity
-        second only to the United States, and nearly doubling China's in-orbit systems since 2018.
-        The PLA owns and operates about half of the world’s ISR systems, most of which could
-        support monitoring, tracking, and targeting of U.S. and allied forces worldwide, especially
-        throughout the Indo-Pacific region.
+        ● The PRC is developing new ICBMs that will significantly improve its nuclear-capable missile
+        forces and will require increased nuclear warhead production, partially due to the introduction
+        of multiple independently targetable reentry vehicle (MIRV) capabilities.
       </p>
       <p>
-        These satellites also allow the PLA to monitor potential regional flashpoints, including the
-        Korean Peninsula, Taiwan, Indian Ocean, and the SCS. In early 2023, the United States
-        announced sanctions against Chinese companies Spacety and China HEAD Aerospace for
-        providing imagery of Ukraine to Russian private military company Wagner during the
+        ● The PRC may be exploring development of conventionally-armed intercontinental range
+        missile systems. If developed and fielded, such capabilities would allow the PRC to threaten
+        conventional strikes against targets in the continental United States, Hawaii, and Alaska.
+        Conventionally-armed ICBMs would present significant risks to strategic stability.
+      </p>
+      <p>
+        The PLARF organizes, mans, trains, and equips the PRC’s strategic land-based nuclear and
+        conventional missile forces and associated support forces and missile bases. The PLARF is a
+        critical component of the PRC’s nuclear deterrence strategy and its strategy to deter and counter
+        third-party intervention in regional conflicts. According to the PRC’s 2019 defense white paper,
+        the PLARF is working towards “enhancing its credible and reliable capabilities of nuclear
+        deterrence and counterattack, strengthening intermediate and long-range precision strike forces,
+        and enhancing strategic counter-balance capability, so as to build a strong and modernized rocket
+        force.”
+      </p>
+      <p>
+        The PLARF fields a variety of conventional mobile ground-launched short-, medium-, and
+        intermediate-range ballistic missiles and ground-launched cruise missiles. The PLARF’s groundbased missile forces complement the air and sea-based precision strike capabilities of the PLAAF
+        and PLAN. The PLARF’s conventional missile forces include the CSS-6 (DF-15) short-range
+        ballistic missile (SRBM) (range 725-850 km), the CSS-7 (DF-11) SRBM (600 km), the CSS-11
+        (DF-16) SRBM (more than 700 km), land-attack and anti-ship variants of the CSS-5 (DF-21)
+        medium-range ballistic missile (MRBM) (approximately 1,500 km), the hypersonic glide vehicle
+        capable DF-17 MRBM, the DF-26 Intermediate-range ballistic missile (IRBM) (3,000-4,000km),
+        the CJ-10 (DH-10) ground-launched cruise missile (GLCM) (approximately 1,500 km), and the
+        CJ-100 (DF-100) GLCM (approximately 2,000 km). The PLARF’s conventionally-armed
+        CSS-5 Mod 5 (DF-21D) ASBM variant gives the PLA the capability to conduct long-range
+        precision strikes against ships, including aircraft carriers, out to the Western Pacific from mainland
+        China. The DF-21D has a range exceeding 1,500 km, is fitted with a maneuverable reentry vehicle
+        (MaRV) and is reportedly capable of rapidly reloading in the field. The PLARF continues to grow
+        its inventory of DF-26 IRBMs, which it first revealed in 2015 and fielded in 2016. The multi-role
+        DF-26 is designed to rapidly swap conventional and nuclear warheads and is capable of conducting
+        precision land-attack and anti-ship strikes in the Western Pacific, the Indian Ocean, and the SCS
+        from mainland China. In 2020, the PRC fired anti-ship ballistic missiles against a moving target
+        in the SCS. The PLARF is developing and testing several new variants of theater-range missiles
+        and developing capabilities and methods to counter adversary BMD systems. The DF-17 passed
+        several tests successfully and is deployed operationally. In 2020, a PRC-based military expert
+        described the primary purpose of the DF-17 as striking foreign military bases and fleets in the
+        Western Pacific. The PRC may be exploring development of conventionally-armed
+        intercontinental range missile systems. If developed and fielded, such capabilities would allow the
+        PRC to threaten conventional strikes against targets in the continental United States, Hawaii, and
+        Alaska. Conventionally-armed ICBMs would present significant risks to strategic stability.
+      </p>
+      <p>
+        The PLARF is developing ICBMs that will significantly improve its nuclear-capable missile forces
+        with more survivable delivery systems. The PRC has doubled and continues to grow the number
+        of launchers at most ICBM units. The PRC’s ICBM arsenal consists of approximately 350 ICBMs,
+        including fixed and mobile launchers capable of launching unitary and multiple reentry vehicles.
+        The PRC’s fixed ICBMs consist of the multiple CSS-4 (DF-5)-class missiles, one of which is
+        capable of carrying up to five (Multiple independently targetable reentry vehicle) MIRV’s and a
+        silo-based CSS-10-class missile. The solid-fueled, road-mobile CSS-10 (DF-31)-class and CSS20 (DF-41) ICBMs complement this force. The CSS-10 Mod 2 (DF-31A), with a range in excess
+        of 11,000 km, can reach most locations within the continental United States. The DF-41 ICBM
+        has been operationally deployed with commentary during the 2019 parade noting that two brigades
+        existed for the system. Additionally, sources indicate a “long-range” DF-27 ballistic missile is in
+        development.Official PRC military writings indicate this range-class spans 5,000-8,000 km, which
+        means the DF-27 could be a new IRBM or ICBM. The PRC probably is developing advanced
+        nuclear delivery systems such as a strategic hypersonic glide vehicle and a fractional orbital
+        bombardment (FOB) system.
+      </p>
+      <pre>{`
+  CHINA’S ROCKET FORCE
+  System        Launchers  Missiles  Estimated Range
+  ICBM          500        350       >5,500 km
+  IRBM          250        500       3,000-5,500 km
+  MRBM          300        1,000     1,000-3,000 km
+  SRBM          200        1,000     300-1,000 km
+  GLCM          150        300       >1,500 km
+`}</pre>
+      <p><strong>Fielded Nuclear Ballistic Missiles</strong></p>
+      <pre>{`
+  (Chart placeholder in original text)
+`}</pre>
+      <p><strong>Fielded Conventional Strike</strong></p>
+      <pre>{`
+  (Chart placeholder in original text)
+`}</pre>
+
+      <h2>STRATEGIC SUPPORT FORCE (SSF)</h2>
+      <h3>Key Takeaways</h3>
+      <p>
+        ● The SSF is a theater command-level organization established to centralize the PLA’s strategic
+        space, cyberspace, electronic, information, communications, and psychological warfare
+        missions and capabilities.
+      </p>
+      <p>
+        ● The SSF’s Network Systems Department (NSD), sometimes referred to as the Cyberspace
+        Force (CSF; 网络空间部队) is responsible for information warfare with an integrated mission
+        set that includes cyberspace warfare, technical reconnaissance, electronic warfare, and
+        psychological warfare. The PLA SSF’s Space Systems Department (SSD), sometimes referred
+        to as the Aerospace Force (ASF; 航天部队), is responsible for military space operations.
+      </p>
+      <p>
+        ● The PRC continues to develop counterspace capabilities—including direct-ascent anti-satellite
+        missiles, co-orbital satellites, electronic warfare, and directed-energy systems—that can
+        contest or deny an adversary’s access to and operations in the space domain during a crisis or
         conflict.
       </p>
       <p>
-        Recent improvements to the PRC’s space-based ISR capabilities emphasize the development,
-        procurement, and use of increasingly capable satellites with digital camera technology as
-        well as space-based radar for all-weather, 24-hour coverage. These improvements increase
-        China’s monitoring capabilities—including observation of U.S. aircraft carriers, expeditionary
-        strike groups, and deployed air wings.
+        ● The PRC’s space enterprise continues to mature rapidly and Beijing has devoted significant
+        resources to growing all aspects of its space program, from military space applications to civil
+        applications such as profit-generating launches, scientific endeavors, and space exploration.
+        SSF works with civilian organizations, such as universities and research organization, to
+        integrate civilian support to military efforts.
       </p>
       <p>
-        Space capabilities will enhance potential PLA military operations farther from the Chinese
-        coast. These capabilities are being augmented with electronic reconnaissance satellites that
-        monitor radar and radio transmissions.
+        The SSF was established in 2015 to centralize the PLA’s strategic space, cyberspace, electronic,
+        and psychological warfare missions and capabilities. The SSF reports directly to the CMC and
+        supports the entire PLA with its capabilities. The PRC’s 2019 defense white paper described the
+        SSF’s modernization goals as “seeking to achieve big development strides in key areas and
+        accelerate the integrated development of new-type combat forces, so as to build a strong and
+        modernized strategic support force.”
       </p>
       <p>
-        <strong>Satellite Communications.</strong> The PRC owns and operates more than 60
-        communications satellites, at least four of which are dedicated to military use. The PRC
-        produces its military-dedicated satellites domestically. Its civilian communications satellites
-        incorporate off-the-shelf commercially manufactured components. The PRC is fielding
-        advanced communications satellites capable of transmitting large amounts of data.
+        The SSF oversees two deputy theater command-level departments: the SSD, sometimes referred
+        to as the ASF, is responsible for military space operations, and the NSD, sometimes referred to as
+        the CSF, responsible for information operations (IO), which includes technical reconnaissance,
+        EW, cyberspace warfare, and psychological operations. At the headquarters level, the SSF has a
+        four-department administrative structure that includes the Staff, Equipment, Political Work, and
+        Logistics Departments. As a strategic organization, the SSF is directly subordinate to the CMC,
+        but some of its subordinate units may report to the theater commands in wartime. The SSF provides
+        information support derived from space-, cyber-, and terrestrial-based means to all PLA services
+        and the five joint theater commands. Civilian reserve and militia units – typically comprised of
+        personnel from the Ministry of Information and Industry Technology, Ministry of Public Security,
+        Ministry of State Security, and academic institutions – augment SSF cyberspace operations during
+        peacetime and are organized into specialized units during wartime to support network defense
+        operations.
       </p>
       <p>
-        Existing and future data relay satellites and other beyond-line-of-sight communications
-        systems could convey critical targeting data to Chinese military operation centers. In addition,
-        China is making progress on its ambitious plans to propel itself to the forefront of the global
-        SATCOM industry.
+        <strong>Network Systems Department.</strong> The SSF NSD, also referred to as the CSF, is responsible for
+        information warfare with a mission set that includes cyberspace warfare, technical reconnaissance,
+        EW, and psychological warfare. By placing the SSF NSD missions under the same organizational
+        umbrella, the PRC seeks to remedy the operational coordination challenges that hindered
+        information sharing under the PLA’s pre-reform organizational structure. The incorporation of
+        cyberspace and EW elements under one organization was a crucial step towards realizing the
+        operational concept of integrated network and electronic warfare that the PLA has envisioned since
+        the early 2000s. The NSD operates five theater–aligned technical reconnaissance bases, a number
+        of signals intelligence bureaus, and several research institutes. The NSD provides intelligence
+        support to the theater commands by leveraging a diverse suite of ground-based technical collection
+        assets to provide a common operating picture to geographically dispersed operational units.
       </p>
       <p>
-        China is continuing to test next-generation capabilities like its Quantum Experimentation at
-        Space Scale (QUESS) space-based quantum-enabled communications satellite, which could
-        supply the means to field highly secure communications systems. In 2016, the PRC launched
-        the world's first quantum communications satellite (Micius) into low Earth orbit, and in July
-        2022, the PRC launched an additional experimental quantum satellite. Testing satellite-based
-        quantum entanglement represents a major milestone in building a practical, global,
-        ultrasecure quantum network.
+        <strong>SSF SPACE SYSTEMS DEPARTMENT</strong><br/>
+        The SSD, sometimes referred to as the ASF, is responsible for nearly all PLA space operations,
+        including space launch and support; space surveillance; space information support; space
+        telemetry, tracking, and control; and space warfare. The PRC seeks to enhance the PLA’s
+        command and control C2 for joint operations and establish a real-time surveillance,
+        reconnaissance, and warning system, and it is increasing the number and capabilities of its space
+        systems, including communications and intelligence satellites, as well as the BeiDou navigation
+        satellite system.
       </p>
       <p>
-        The PRC also intends to provide SATCOM support to users worldwide and plans to develop
-        at least seven new SATCOM constellations in low earth orbit (LEO), most notably one
-        from state-owned enterprise China SatNet. These constellations are still in the early stages
-        of development and may begin to launch in the next year.
+        The SSD operates at least eight bases, including those whose core missions are the launch,
+        tracking, R&amp;D, and operation of the satellites vital to the PRC’s overhead C4ISR architecture. The
+        SSD operates tracking, telemetry, and command (TT&amp;C) stations in multiple locations worldwide
+        to guide space missions around the Earth as well as in cislunar and deep space. The SSD also
+        operates Yuanwang space support ships that track satellite and ICBM launches. 
       </p>
       <p>
-        <strong>Position, Navigation, and Timing (PNT) Capabilities.</strong> The PRC’s satellite
-        navigation system, known as BeiDou, is an independently constructed, developed, and
-        exclusively China-operated PNT service. It reached initial operating capability in 2018
-        and was finalized with its last launch in 2020.
+        China has five launch sites, including four land-based and one sea-based. The SSD’s China Launch
+        and Tracking Control (CLTC) operates all four fixed launch sites in China, in addition to
+        Yuanwang space support ships (SESS), two major satellite control centers—Xian Satellite Control
+        Center (XSCC) and the Beijing Aerospace Control Center (BACC)—and the PLA TT&amp;C system
+        for all Chinese satellites.
       </p>
       <p>
-        The PRC’s priorities for BeiDou are to support national security and economic and social
-        development by adopting Chinese PNT into precise agriculture, monitoring of vehicles and
-        ships, and aiding with civilian-focused services across more than 100 countries in Africa,
-        Asia, and Europe. BeiDou provides all-time, all-weather, and high-accuracy PNT services to
-        users domestically, in the Asia-Pacific region, as well as globally and consists of 49 operational
-        satellites.
+        <strong>Other Space and Counterspace Organizations.</strong> The PRC’s space program comprises
+        organizations in the military, civil, defense-industrial, and commercial sectors. The PLA
+        historically has managed the PRC’s space program and continues to support both civilian and
+        military interests. This includes strengthening and investing in its science and technology sector,
+        growing international partnerships, and improving the PRC’s capabilities in space-based ISR,
+        SATCOM, satellite navigation, human spaceflight, and robotic space exploration. Although stateowned enterprises are China’s primary space contractors, the PRC is placing greater emphasis on
+        decentralizing and diversifying its space industry to increase competition.
       </p>
       <p>
-        The PRC’s military uses BeiDou’s high-accuracy PNT services to enable force movements
-        and precision guided munitions delivery. BeiDou has a worldwide positional accuracy
-        standard of 10 meters; accuracy in the Asia-Pacific region is within 5 meters.
+        The State Council’s State Administration for Science, Technology, and Industry for National
+        Defense (SASTIND) is the primary civilian organization that coordinates and manages the PRC’s
+        space activities, including allocating space research and development funds. It also maintains a
+        working relationship with the PLA organization that oversees the PRC’s military acquisitions.
+        SASTIND guides and establishes policies for state-owned entities conducting the PRC’s space
+        activities.
       </p>
       <p>
-        In addition to providing PNT, the BeiDou constellation offers unique capabilities, including
-        text messaging and user tracking through its Regional Short Message Communication
-        service to enable mass communications among BeiDou users. The system also provides
-        additional military C2 capabilities for the PLA.
+        The China National Space Administration (CNSA), subordinate to SASTIND, conducts China’s
+        civilian space efforts, including human spaceflight at the Chinese space station, lunar missions,
+        and interplanetary missions. The PRC is increasingly using CNSA efforts to bolster relationships
+        with countries around the world, particularly with the BRI Partners, providing opportunities to
+        cooperate on space issues.
       </p>
       <p>
-        The PRC intends to use its BeiDou constellation to offer additional services and incentives
-        to countries taking part in its BRI emphasizing building strong economic ties to other
-        countries to align partner nations with the PRC’s interests.
+        Many space technologies can serve a civilian and military purpose and the PRC emphasizes
+        “military-civil fusion”—a phrase used, in part, to refer to the use of dual-use technologies, policies,
+        and organizations for military benefit. The SSF works with civilian organizations like universities
+        and research organizations to incorporate civilian support to military efforts since there is an
+        already high demand for aerospace talent and competition for finite human resources. China also
+        has a growing commercial space sector that supports government objectives, including remote
+        sensing, launch, and communication services.
       </p>
       <p>
-        In 2021, China predicted Beidou products and services will be worth $156 billion by 2025,
-        and potentially export BeiDou products to more than 100 million users in 120 countries.
+        <strong>International Cooperation.</strong> The PRC has extensive civil space cooperation agreements around
+        the world and is an exporter of satellites and space technology. It has more than a hundred
+        cooperative space-related agreements with more than three dozen countries and four international
+        organizations. The PRC is inviting countries to participate on the Chinese space station or
+        International Lunar Research Station, which is jointly led by China and Russia, and has sold
+        satellite launching services and ground stations to countries around the world.
       </p>
       <p>
-        <strong>Human Spaceflight and Space Exploration Efforts.</strong> Following uncrewed
-        missions that began in 1999, China became the third country to achieve independent human
-        spaceflight when it successfully orbited the crewed Shenzhou-5 spacecraft in 2003. In 2011,
-        China then launched its first space station, Tiangong-1, and in 2016, it launched its second
-        space station, Tiangong-2.
+        China leads the Asia-Pacific Space Cooperation Organization (APSCO), a multilateral
+        organization with rotating leadership whose members include Bangladesh, Iran, Mongolia,
+        Pakistan, Peru, Thailand, and Turkey with Egypt, Indonesia, and Mexico as associate members.
+        APSCO oversees a network of space surveillance telescopes and tasking information, and the
+        observation data it collects is funneled through the Chinese Academy of Science’s National
+        Astronomical Observatory of China. The organization is planning to improve optical system
+        capabilities, coverage, and redundancy as well as data sharing networks.
+      </p>
+      <p><strong>Major SSF Installations</strong></p>
+      <pre>{`
+  (Map / Table placeholder in original text)
+`}</pre>
+
+      <h2>JOINT LOGISTIC SUPPORT FORCE (JLSF)</h2>
+      <h3>Key Takeaways</h3>
+      <p>
+        ● The JLSF is concentrating its efforts on improving joint strategic and campaign-level logistic
+        efficiencies through training and integrating civilian products and services.
       </p>
       <p>
-        In 2020, China conducted its first orbital test of the New-Generation Manned Spaceship,
-        which is expected to replace the Shenzhou series of crewed spacecraft. In 2022, China
-        successfully launched the Mengtian Chinese Space Station laboratory module into orbit,
-        completing the three-module Chinese space station.
+        ● The JLSF supports multimodal transportation methods to facilitate the movement of PLA
+        forces and equipment for training.
       </p>
       <p>
-        China has also taken on a greater role in deep space exploration and space science and has
-        made notable accomplishments during the past several years. The PRC has demonstrated its
-        interest in working with Russia and the European Space Agency (ESA) to conduct deep-space
-        exploration. China was the third country to place a robotic rover on the Moon and was the
-        first to land a rover on the lunar far side in 2019, which is communicating through the Queqiao
-        relay satellite that China launched the year before to a stable orbit around an Earth-Moon
-        Lagrange point.
+        The PLA JLSF, established in 2016, provides integrated joint logistics support for the PLA. The
+        JLSF commander is Lt. Gen. Wang Liyan. The JLSF is directly subordinate to the CMC and is
+        central to China’s efforts to build a joint, efficient “combat-oriented modern logistics system,”
+        which Beijing views as essential for modern warfare. The JLSF modernizes PLA strategic- and
+        campaign-level logistics by overseeing theater wide supply operations, establishing and
+        coordinating support relationships among PLA service logistics elements conducting joint logistics
+        exercises with the PLA services, and integrating civilian logistics resources into military
+        operations. The JLSF conducts exercises to improve the PLA’s ability to conduct joint logistics
+        operations.
       </p>
       <p>
-        In May 2021, the PRC landed the Zhurong rover on Mars, the first Chinese rover to operate
-        on Mars. This rover has provided China with valuable scientific data of the Martian surface
-        and underground.
+        The JLSF is headquartered at Wuhan Joint Logistics Support Base. It operates five joint logistics
+        support centers (JLSCs) aligned with each of the theater commands that are intended to streamline
+        logistics support to the PLA. Under the JLSCs’ control are units that provide materiel support to
+        the PLA and joint logistics support brigades (JLSBs), who focus exclusively on providing mobile
+        logistics support during combat operations.
       </p>
       <p>
-        <strong>Space Launch Capabilities.</strong> The PRC is improving its space launch
-        capabilities to ensure it has an independent, reliable means to access space and to compete
-        in the international space launch market. The PRC continues to improve manufacturing
-        efficiencies and launch capabilities overall, supporting continued human spaceflight and
-        deep-space exploration missions—including to the Moon and Mars.
+        The JLSF provides the PLA with joint strategic- and campaign-level logistics, enabling the PLA
+        to conduct large-scale operations. Elements of the JLSF who provide direct wartime support to the
+        PLA fighting force are categorized as weapons and ammunition storage, warehousing, medical
+        services, transport, fuel, engineering and construction management, reserve equipment, and
+        procurement support. During peacetime, the JLSF has authority over the JLSCs’ operations and
+        activities; during wartime, theater commands possibly would assume control of their designated
+        JLSC.
       </p>
       <p>
-        New modular SLVs that allow the PRC to tailor an SLV to the specific configuration
-        required for each customer are beginning to go into operation, leading to increased launch
-        vehicle reliability and overall cost savings for launch campaigns. The PRC is also in the early
-        stages of developing a super heavy-lift SLV similar to the U.S. Saturn V or the newer U.S.
-        Space Launch System to support proposed crewed lunar and Mars exploration missions.
+        The JLSF integrates civilian resources and equipment into military operations and exercises,
+        leveraging China’s civilian products, services and transportation, to improve resupply and move
+        military personnel and equipment more rapidly. It does so primarily through the use of military
+        representative offices (MROs) comprised of JLSF personnel who embed with civilian
+        transportation companies (air, rail, road, and sea) to plan and manage military transportation. MRO
+        personnel are vital to the JLSF’s military-civilian integration efforts because they understand the
+        technical loading procedures for various modes of transportation, can draft load plans, and provide
+        expertise to reduce load times at points of embarkation. JLSF theater dispatch centers are the
+        headquarters of regional MROs, coordinate PLA mobilization, and are tasked with improving the
+        efficiency of transferring materials and forces between transportation modes.
       </p>
       <p>
-        In addition to land-based launches, in 2019, the PRC demonstrated the ability to launch a
-        Long March-11 (LM-11) SLV from a sea-based platform. Since 2021, the PRC has been
-        expanding its sea launch infrastructure near Haiyang to expand the frequency of sea launch
-        missions. This capability, if staged correctly, would allow the PRC to launch nearer to the
-        equator than its land-based launch sites, increase the rocket’s carrying capacity, and
-        potentially lower launch costs.
+        <strong>PLA Training to Improve Readiness.</strong> The CMC sought to improve PLA combat readiness,
+        interoperability, and training through the 14th Five-Year Plan and reinforced these priorities
+        through military training mobilization orders and senior leadership guidance. In 2022, Xi
+        emphasized the need for the PLA to adopt the latest technologies in its training and to focus on
+        integrating training with combat operations The PLA conducted multiple large-scale joint
+        exercises and incorporated advanced weapons and equipment, such as during the exercises around
+        Taiwan in August.
       </p>
       <p>
-        The PRC has developed quick-response SLVs to increase its attractiveness as a commercial
-        small satellite launch provider and to rapidly reconstitute LEO space capabilities, which
-        could support PRC military operations during a conflict or civilian response to disasters.
+        Throughout 2022, the PLA sustained the frequency, scale, and duration of joint exercises. The
+        COVID-19 pandemic likely did not significantly impact the PLA’s ability to conduct joint
+        exercises. The PLA successfully completed at least eight bilateral and multinational exercises,
+        conducting naval drills, maritime and aerial patrols, and humanitarian assistance and disaster relief
+        efforts. Although the PLA has improved some combat deficiencies, the force, as a whole, probably
+        continues to work through challenges with joint operations, command and control, and tactical and
+        small-unit leadership.
       </p>
       <p>
-        Compared with medium- and heavy-lift SLVs, these quick-response SLVs are able to expedite
-        launch campaigns because they are transportable via road or rail and can be stored
-        launch-ready with solid fuel for longer periods than liquid-fueled SLVs. Because their size
-        is limited, quick-response SLVs such as the Kuaizhou-1 (KZ-1), LM-6, and LM-11 are only
-        able to launch relatively small payloads of up to approximately 2 metric tons into LEO.
-      </p>
-      <p>
-        The expansion of non-state-owned PRC launch vehicle and satellite operation companies in
-        China’s domestic market since 2015 suggests that China is successfully advancing militarycivil fusion efforts. Military-civil fusion blurs the lines between these entities and obfuscates the
-        end users of acquired foreign technology and expertise.
-      </p>
-      <p>
-        <strong>Space Situational Awareness.</strong> The PRC has a robust network of space
-        surveillance sensors capable of searching, tracking, and characterizing satellites in all Earth
-        orbits. This network includes a variety of telescopes, radars, and other sensors that allow the
-        PRC to support its missions including intelligence collection, counterspace targeting, ballistic
-        missile early warning (BMEW), spaceflight safety, satellite anomaly resolution, and space
-        debris monitoring.
-      </p>
-      <p>
-        <strong>Electronic Warfare Counterspace Capabilities.</strong> The PLA considers EW
-        capabilities to be critical assets for modern warfare, and its doctrine emphasizes using EW
-        to suppress or deceive enemy equipment. The PLA routinely incorporates in its exercises
-        jamming and anti-jamming techniques that probably are intended to deny multiple types of
-        space-based communications, radar systems, and GPS navigation support to military
-        movement and precision-guided munitions employment.
-      </p>
-      <p>
-        The PRC probably is developing jammers dedicated to targeting SAR, including aboard
-        military reconnaissance platforms. Interfering with SAR satellites very likely protects
-        terrestrial assets by denying imagery and targeting in any potential conflict involving the
-        United States or its allies. In addition, China probably is developing jammers to target
-        SATCOM over a range of frequency bands, including military-protected extremely high
-        frequency communications.
-      </p>
-      <p>
-        <strong>Directed Energy Weapons (DEW).</strong> During the past two decades, PRC
-        defense research has proposed the development of several reversible and nonreversible
-        counterspace DEWs for reversible dazzling of electro-optical sensors and even potentially
-        destroying satellite components. The PRC has multiple ground-based laser weapons of
-        varying power levels to disrupt, degrade, or damage satellites that include a current limited
-        capability to employ laser systems against satellite sensors. By the mid- to late-2020s, the
-        PRC may field higher power systems that extend the threat to the structures of non-optical
-        satellites.
-      </p>
-      <p>
-        <strong>ASAT Missile Threats.</strong> In 2007, the PRC destroyed one of its defunct weather
-        satellites more than 800 kilometers above the Earth with an ASAT missile. The effect of this
-        destructive test generated more than 3,000 pieces of trackable space debris, of which more
-        than 2,700 remain in orbit and most will continue orbiting the Earth for decades.
-      </p>
-      <p>
-        The PLA’s operational ground-based ASAT missile system is intended to target LEO
-        satellites. The PRC’s military units have continued training with ASAT missiles. The PRC
-        plans to pursue additional ASAT weapons that are able to destroy satellites up to GEO.
-      </p>
-      <p>
-        In 2013, the PRC launched an object into space on a ballistic trajectory with a peak orbital
-        radius above 30,000 kilometers, near GEO altitudes. No new satellites were released from
-        the object, and the launch profile was inconsistent with traditional SLVs, ballistic missiles,
-        or sounding rocket launches for scientific research, suggesting a basic capability could exist
-        to use ASAT technology against satellites in geostationary orbit (GEO).
-      </p>
-      <p>
-        <strong>Orbital Threats.</strong> The PRC is developing other sophisticated space-based
-        capabilities, such as satellite inspection and repair. At least some of these capabilities could
-        also function as a weapon. The PRC has launched multiple satellites to conduct scientific
-        experiments on space maintenance technologies and is conducting research on space debris
-        cleanup.
-      </p>
-      <p>
-        The Shijian-17 was the PRC’s first satellite with a robotic arm, technology that could be
-        used in a future system for grappling adversary satellites. In October 2021, the PRC launched
-        another satellite with a robotic arm, the Shijian-21, into GEO, and, in January 2022, it moved
-        a derelict BeiDou navigation satellite to a high graveyard orbit above GEO.
-      </p>
-      <p>
-        Since at least 2006, the PRC has investigated aerospace engineering aspects associated with
-        space-based kinetic weapons—generally a class of weapon used to attack ground, sea, or air
-        targets from orbit. Space-based kinetic weapons research included methods of reentry,
-        separation of payload, delivery vehicles, and transfer orbits for targeting purposes. In July
-        2021, the PRC conducted the first fractional orbital launch of an ICBM with a hypersonic
-        glide vehicle from China.
-      </p>
-      <p>
-        This demonstrated the greatest distance flown (~40,000 kilometers) and longest flight time
-        (~100+ minutes) of any Chinese land attack weapons system to date.
+        The largest unplanned event of the year occurred in August 2022, when the PLA conducted livefire drills—including firing ballistic missiles over Taiwan—in response to the CODEL visit to
+        Taipei in August 2022. During the visit, Taiwan’s defense ministry reported that 27 PLA aircraft
+        entered Taiwan’s air defense identification zone, including 22 that crossed the median of the
+        Taiwan Strait. The PLA’s centerline crossings have continued since August as the PLA maintains
+        a heightened readiness level. Such activity reflects ongoing PLA attempts to normalize median
+        line crossings.
       </p>
 
-      <h2>CHAPTER THREE: OPERATIONAL STRUCTURE AND ACTIVITIES ON CHINA’S PERIPHERY</h2>
-      <p><strong>KEY TAKEAWAYS</strong></p>
-      <ul>
-        <li>
-          The PRC continues to refine military reforms associated with the establishment of the
-          Eastern, Southern, Western, Northern, and Central Theater Commands, which are
-          organized based on the PRC’s perception of peripheral threats.
-        </li>
-        <li>
-          Under the direction of the CMC, each Theater Command has operational authority
-          over the PLA conventional forces within the theater.
-        </li>
-        <li>
-          In August 2022, the PLA carried out large-scale joint military exercises aimed at
-          pressuring Taiwan. The exercises included firing ballistic missiles over Taiwan’s
-          main island, over a dozen naval patrols, and hundreds of flights into Taiwan’s claimed
-          air defense identification zone (ADIZ).
-        </li>
-      </ul>
+      <h2>INCREASING OPERABILITY WITH PLA RESERVES, PARAMILITARY &amp; MILITIA</h2>
+      <h3>Key Takeaways</h3>
       <p>
-        The PRC continues to make steady improvements to joint operations in the five theater
-        commands, which were established in early 2016. Each theater command receives direction
-        from the CMC, has operational authority over assigned PLA forces within its theater, and is
-        responsible for all conventional combat and non-combat operations within its area of
-        responsibility.
+        ● Interoperability and integration between the PLA, its reserve components, and the PRC’s
+        paramilitary forces continue to grow in scale and sophistication, including the coordination
+        between the PLAN, the China Coast Guard (CCG), and the China Maritime Militia (CMM).
       </p>
       <p>
-        Theater commands are responsible for developing theater-specific strategies aimed at
-        preparing to fight and win against an adversary, developing joint operational plans and
-        military capabilities, responding to crises, and safeguarding the sovereignty and stability
-        of its claimed territories. The strategic directions of the theater commands are based on
-        Chinese perceptions of peripheral threats:
-      </p>
-      <ul>
-        <li>Eastern Theater Command – Taiwan, ECS</li>
-        <li>Southern Theater Command – SCS; Southeast Asia border security; territorial and
-          maritime disputes</li>
-        <li>Western Theater Command – India, Central Asia, “counterterrorism” in Xinjiang and Tibet</li>
-        <li>Northern Theater Command – Korean Peninsula, Russia border security</li>
-        <li>Central Theater Command – Capital defense; surge support to other theaters</li>
-      </ul>
-
-      <h3>EASTERN THEATER COMMAND</h3>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          The Eastern Theater Command is oriented toward Taiwan and the ECS.
-        </li>
-        <li>
-          The Eastern Theater Command likely would be in charge of a Taiwan Invasion.
-        </li>
-        <li>
-          The Eastern Theater Command was responsible for executing the PLA’s large-scale
-          joint exercises aimed at pressuring Taiwan in August 2022.
-        </li>
-      </ul>
-      <p>
-        The Eastern Theater Command has responsibility for the ECS and likely executes operational
-        control over military matters related to Taiwan and Japan, including contingencies in and
-        around the Taiwan Strait and the Senkaku Islands.
+        ● The PRC primarily uses paramilitary maritime organizations in maritime disputes, selectively
+        using the PLAN to provide overwatch in case of escalation.
       </p>
       <p>
-        During 2022, the Eastern Theater Command maintained focus on a series of training and
-        exercises to improve joint operations and combat readiness, organizing exercises and drills
-        consisting of long-distance training and mobilization, aerial combat, live-fire training, and
-        the use of modified civilian ferries to help augment transportation.
-      </p>
-
-      <h4>2022 EASTERN THEATER COMMAND LEADERSHIP</h4>
-      <p>
-        <strong>Commander of the Eastern Theater Command – General Lin Xiangyang [林向阳]</strong><br />
-        Previous Position: Commander of the Central Theater Command <br />
-        DOB: October 1964 <br />
-        Age: 58 <br />
-        Birthplace: Dengjun Village, Haikou Town, Fuqing, Fuzhou, Fujian Province [福建省福州市福清市海口镇登俊村]<br />
-        Education: Nanchang Army Academy; Studied abroad in Russia; Attended a class at
-        PRC NDU for Young- and Middle-aged Cadres [中青班]
+        <strong>THE PRC’S INTERNAL SECURITY FORCES</strong><br/>
+        The PRC’s internal security forces consist primarily of the Ministry of Public Security (MPS),
+        the Ministry of State Security (MSS), the People’s Armed Police (PAP), the People’s
+        Liberation Army (PLA), and the militia. The CCP relies on these forces to address
+        challenges ranging from protests over political, social, environmental, or economic
+        problems, to terrorism and natural disasters. In 2022, the PRC deployed thousands of
+        PLA, PAP, and militia personnel for disaster relief in response to multiple events such as
+        an airplane crash, earthquakes, fires, and floods.
       </p>
       <p>
-        <strong>Political Commissar of the Eastern Theater Command – General He Ping [何平]</strong><br />
-        Previous Position: Director of the Political Department of the Western Theater Command;
-        Deputy Political Commissar of the Western Theater Command <br />
-        DOB: November 1957 <br />
-        Age: 63 <br />
-        Birthplace: Nanchong, Sichuan Province [四川省南充市] <br />
-        Education: Unknown
+        <strong>Ministry of Public Security (MPS).</strong> The MPS leads the PRC’s civilian national police, which
+        serves as the front force for public order. The key mission of the MPS is domestic law
+        enforcement and the “maintenance of social security and order” with duties including antirioting and anti-terrorism.
       </p>
       <p>
-        <strong>Chief of Staff of the Eastern Theater Command, Deputy Commander of the Eastern Theater Command – 
-          Lieutenant General Hong Jiangqiang [洪江强]</strong><br />
-        Previous position: Commander of the 80th Group Army, Northern Theater Command Army <br />
-        DOB: 1965 <br />
-        Age: 57 <br />
-        Birthplace: Meishi Village, Gangwei Town, Longhai, Zhangzhou, Fujian Province 
-        [福建省漳州市龙海市港尾镇梅市村] <br />
-        Education: Unknown
+        <strong>Ministry of State Security (MSS).</strong> The MSS is the PRC’s main civilian intelligence and
+        counterintelligence service. MSS operations include but are not limited to: protect the
+        PRC’s national security; conduct counterintelligence; combating foreign espionage; and
+        investigate organizations or individuals inside the PRC who carry out or direct, support, or
+        aid other people perceived to threaten national security. On April 26th, 2021, the PRC
+        enacted a new counter-espionage law permitting the MSS authority to identify companies
+        and organizations deemed susceptible to foreign infiltration or influence and require
+        these institutes to implement measures to prevent foreign infiltration.
       </p>
       <p>
-        PLA units located within the Eastern Theater Command include 71st, 72nd, and 73rd Group
-        Armies; the Eastern Theater Navy and its naval aviation division and two marine brigades;
-        and two Air Force divisions, two operational PLAAF bases, and one PLARF base. During
-        a contingency, the Eastern Theater Command likely also exercises command over some
-        SSF units in theater and receives strategic intelligence support from the SSF to improve
-        battlefield awareness and facilitate joint operations within the theater.
-      </p>
-
-      <h3>EAST CHINA SEA (ECS)</h3>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          The PRC continues to use maritime law enforcement ships and aircraft to patrol near
-          the Japan-administered Senkaku Islands.
-        </li>
-        <li>
-          The PRC attempts to legitimize its claims in the ECS through the continuous presence
-          of PRC fishing and Maritime Militia vessels, escorted by CCG cutters and with PLA
-          Navy warships nearby as overwatch.
-        </li>
-        <li>
-          In 2021, the PRC passed new legislation regarding the rules of engagement for their
-          Coast Guard vessels, which created a legal justification for more aggressive patrols.
-          Throughout 2021 and 2022, the PRC expanded its annual unilateral summer fishing ban
-          in Beijing-claimed waters north of the 12th parallel to include the ECS by an additional
-          month to incrementally enforce its de facto maritime sovereignty claims.
-        </li>
-      </ul>
-      <p>
-        The PRC claims sovereignty over the Japanese-administered Senkaku Islands in the ECS,
-        which Taiwan also claims. Beijing continues to uphold the importance of the 2014
-        four-point consensus, which states Japan and the PRC will acknowledge divergent
-        positions over the ECS but prevent escalation through dialogue, consultation, and crisis
-        management mechanisms.
+        <strong>People’s Armed Police (PAP).</strong> The PAP is a paramilitary component of the PRC’s armed
+        forces. Its primary missions include internal security, maritime security, and
+        augmentation to the PLA during conflict. As part of a security structures reorganization in
+        2018, the CMC centralized control of the PAP. The same reform also subordinated the
+        CCG to the PAP.
       </p>
       <p>
-        The United States does not take a position on sovereignty of the Senkaku Islands but
-        recognizes Japan’s administration of the islands and continues to reaffirm that the islands
-        fall within the scope of Article 5 of the U.S.-Japan Mutual Security Treaty. In addition,
-        the United States opposes any unilateral actions that seek to undermine Japan’s
-        administration of the islands.
+        <strong>People’s Liberation Army (PLA).</strong> In addition to its national defense mission, the PLA has
+        formal and informal roles in the PRC’s internal security. As the principal armed wing of the
+        CCP, the PLA is the ultimate guarantor of the CCP’s survival and supports other internal
+        security forces as necessary. The 2020 National Defense Law recognizes this role in
+        assigning the PLA the mission to “consolidate the leadership of the Communist Party of
+        China and the socialist system” in addition to external defense tasks.
       </p>
       <p>
-        The PRC uses maritime law enforcement ships and aircraft to patrol near the Senkaku
-        Islands, not only to demonstrate its sovereignty claims, but also to improve readiness
-        and responsiveness to potential contingencies. In 2022, the PRC continued to conduct
-        regular patrols into the contiguous zone territorial seas around the Senkaku Islands and
-        stepped up efforts to challenge Japan’s control over the islands by increasing the duration
-        and assertiveness of its patrols.
+        <strong>Militia.</strong> The PRC’s militia is a force that can be mobilized for a variety of peace- and wartime missions and is distinct from the PLA’s Reserve Force. The militia is organized by
+        townships, administrative villages, urban sub-districts, and enterprises and institutions,
+        and the missions may vary widely. In wartime, militia units assist the PLA with its military
+        operations, conduct independent security operations, and provide support and manpower
+        replacement to the PLA. During peacetime, the militia assists in humanitarian aid and
+        disaster relief, supports military training, and maintains internal security. The PRC’s
+        Military Service Law requires male citizens between 18 to 35 years of age who are fit for
+        military service, excluding those already in active service, be enrolled into the militia. The
+        militia is divided into two categories. The primary militia consists of former soldiers,
+        personnel that have received military training, and personnel selected for military training
+        that are under the age of 28, in good health, and politically reliable. The remainder of male
+        citizens between 18 and 35 years of age are considered ordinary militia. The primary
+        militia may recruit female citizens when necessary and the age limits can be waived under
+        special circumstance. Local maritime militia forces, referred to by many western analysts
+        as the Chinese Maritime Militia, perform tasks including safeguarding maritime claims,
+        protecting fisheries, providing logistic support, search and rescue, and surveillance and
+        reconnaissance, often in conjunction or coordination with the PLAN and the CCG.
       </p>
       <p>
-        For the third year in a row, CCG ships entered Japanese-claimed waters for more than 100
-        consecutive days, including over 300 days in the contiguous zones around the Islands in
-        2022. In December 2022, the CCG conducted the longest entrance to date into the Senkaku
-        Islands territorial waters, with four ships remaining in the waters for nearly 73 hours.
+        <strong>People’s Liberation Army Reserve Force.</strong> The People’s Liberation Army Reserve Force was
+        founded in 1983 and professionalized throughout the 1990s and 2000s. On July 1st, 2020, the PRC
+        amended laws, regulations, and policies to bring the Reserve Force under the command of the
+        Central Committee of the CCP and the CMC. The previous arrangement split control of the
+        Reserve Force between the PLA and local Party committees. Motivations for the change include
+        improving combat capability, facilitating cooperation with active-duty units, and upholding the
+        CCP’s absolute leadership over the military. Chinese sources often stated specifically that the
+        reform would enhance reserve performance in Tibet and Xinjiang. Additionally, the PLA appears
+        to have begun making a partial restructure towards using a PLAA reserve base system to continue
+        to improve facilitation and support for active-duty units.
+      </p>
+      <p>
+        The PLA Reserve Force is comprised of approximately 510,000 personnel subordinate to the Army
+        Reserve, Navy Reserve, Air Force Reserve, and Rocket Force Reserve. According to PLA
+        documents, active-duty personnel are the backbone of the Reserve Force, but reserve-duty officers
+        and soldiers are its foundation. 2020 National Defense University's Science of Military Strategy
+        states the building of the reserve force is an important part of national defense construction and is
+        the basic and strategic project to consolidate national defense. The primary mission of the reserves
+        is to reinforce active-duty forces for national defense, with a secondary mission to aid in national
+        disasters or maintaining social order.The Reserve Force should be prepared to effectively respond
+        to a variety of emergencies and military threats, safeguard national sovereignty, security and
+        development interests, and the core security of the country.
+      </p>
+      <p>
+        Although originally founded to support the ground forces, reforms in recent years seek to reduce
+        PLAA reserves and increase those for the PLAN, PLAAF, and the PLARF. However, PRC
+        writings suggest that, as of 2018, the Reserve Force was still predominately ground force-centric,
+        with less than 10 percent of reservists serving specialized technical functions in the PLAN,
+        PLAAF, PLARF, or PLA SSF.
+      </p>
+      <p>
+        Reserve officers are selected from veteran PLA officers, local officials, PAP or militia officers,
+        and other technical personnel. Reserve soldiers are selected from eligible PLA veterans, trained
+        grass-roots militias, and other local or military specialty personnel. Some reserve soldiers also
+        failed to meet active-duty entry requirements and conduct remedial training in the reserves until
+        they are able to join the active-duty force.
+      </p>
+      <p>
+        The PLA is working to improve reserve mobilization, which anecdotal evidence suggests is
+        hindered by unclear processes. In March 2023, during the PRC’s annual “Two Sessions,” PLA
+        deputies suggested that the PRC should study and prioritize wartime legislation, including the
+        introduction of laws such as the mobilization of reserve forces. Chinese documents also suggest
+        that Reserve Force equipment is old; one report in 2018 stated that more than 70 percent of air
+        defense artillery and artillery equipment is at or beyond its maximum service life. Some of the
+        equipment is no longer manufactured and repair requires cannibalization.
+      </p>
+      <p>
+        The PLA Reserve Force does not include militias, the Civil Air Defense, or myriad other groups
+        (e.g., the People’s Armed Police or the Xinjiang Production and Construction Corps (XPCC)).
       </p>
 
-      <h3>SOUTHERN THEATER COMMAND</h3>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          The Southern Theater Command is oriented toward the SCS, Southeast Asia border
-          security, and territorial and maritime disputes.
-        </li>
-        <li>
-          The Southern Theater Command is responsible for responding to U.S. freedom of
-          navigation operations in the SCS and can assume command as needed over all CCG
-          and CMM ships conducting operations within the PRC’s claimed “nine-dash line.”
-        </li>
-        <li>
-          In 2022, Southern Theater Command units conducted multiple live-fire drills and
-          amphibious training events near PRC-occupied features in the SCS.
-        </li>
-      </ul>
+      <h2>PEOPLE'S ARMED POLICE (PAP)</h2>
       <p>
-        The Southern Theater Command covers mainland and maritime Southeast Asia, including
-        the SCS. This geographic area implies that the Southern Theater Command is responsible
-        for securing the SCS, supporting the Eastern Theater Command in any operation against
-        Taiwan, and assuring the security of sea lines of communication (SLOCs) vital to China’s
-        global ambitions in the SCS.
+        The PAP is a component of the PRC’s armed forces and an armed wing of the CCP with an
+        estimated 660,000 personnel. In the 2020 National Defense University's Science of Military
+        Strategy, the primary responsibilities of the PAP include maintaining political, institutional and
+        regime security, handling emergency rescue, counter-terrorism, air support, maritime rights
+        protection, administrative law enforcement, and defense operations. The PAP is organized into
+        three main parts: the Internal Security Corps, the Mobile Corps, and the CCG. The Internal
+        Security Corps covers each of the PRC’s provinces, provincial-level cities, and “autonomous”
+        regions. There is not yet a reported permanent presence of the PAP in the Special Administrative
+        Regions (SARs) of Hong Kong or Macao. The Mobile Corps is comprised of myriad PAP units
+        placed to reinforce the Internal Security Corps and provide flexibility in responding to internal
+        security issues. Mobile Corps units are concentrated around non-Han ethnic regions in the West
+        and South (Xinjiang, Tibet, Sichuan, Yunnan, and Qinghai) as well as the major cities of Beijing
+        and Shanghai. Xinjiang is a particular focus of the PAP due to alleged separatist activity, as well
+        as its proximity to areas of unrest in Central Asia.
       </p>
       <p>
-        The Southern Theater Command is responsible for responding to U.S. freedom of navigation
-        operations in the SCS by regularly tracking and reacting to U.S. ships operating within the
-        China-claimed “nine-dash line.” The Southern Theater Command is responsible for training,
-        force disposition, and operations in the SCS.
+        On July 1st, 2020, the standing committee of the PRC’s legislature, the National People’s Congress,
+        approved a revision to the Law on the People’s Armed Police Force which officially recognized
+        the CMC singular command of the PAP, identified the PAP as an important part of the armed
+        forces that fall under the leadership of the CCP, as well as affirming its primary mission set of
+        handling security emergencies, maintaining stability, conducting counter-terrorism operations, and
+        executing maritime law enforcement and rescue. This legal amendment codified and deepened the
+        substantial reforms of 2018, when command of the PAP was centralized under the Central Party
+        Committee and the CMC after decades of dual-leadership under the CMC and State Council (a
+        PRC government body); the China Coast Guard was subordinated to the PAP; and myriad auxiliary
+        duties (e.g., protecting gold mines, firefighting, etc.) were removed from the PAP’s purview to
+        focus its mission on PRC domestic and international security. Chinese media noted that the 2020
+        PAP reforms included an article that permitted the PAP to conduct certain operations, including
+        counter-terrorism training, outside of the PRC.
       </p>
       <p>
-        The Southern Theater Command also plays a significant role in the PLA’s bilateral and
-        multilateral exercises with countries in Southeast Asia, such as participating in humanitarian
-        assistance and disaster relief exercise with Thailand in 2022.
+        Xi and the CCP leadership tasked the PAP with integrating themselves into the PLA’s joint
+        operation system. The PAP is increasingly focused on internal security and joint operations with
+        the PLA and is developing capabilities for rapid response, mobility, and counterterrorism
+        operations. The PAP also conducts training with foreign partners, including at least Uzbekistan,
+        Kyrgyzstan, and Russia. Since at least 2016, PAP forces have likely operated in Tajikistan,
+        patrolling the tri-border region connecting Tajikistan, Afghanistan, and the PRC.
       </p>
       <p>
-        The PLA Hong Kong and Macao garrisons are subordinate to the Southern Theater Command.
-        In August 2022, the PLA Hong Kong and Macao garrisons conducted an annual rotation of
-        forces. Since 1997, the PLA has rotated forces by land, air, and sea from Shenzhen at night,
-        nominally as part of the usual annual rotation. Since the 2019 pro-democracy protests,
-        China maintains a rotational deployment of PAP forces in Hong Kong.
-      </p>
-      <p>
-        The PAP and PLA units continued to publicly highlight their anti-riot, counterterrorism, and
-        disaster prevention training. All of the PLA’s 24 Su-35s purchased from Russia are assigned
-        to the Southern Theater Command Air Force and have flown patrols in the SCS and into
-        the Western Pacific. The Southern Theater Command was also the first command to receive
-        the PLAN’s H-6J maritime strike bombers.
-      </p>
-      <p>
-        In December 2019, the PRC commissioned its first-domestically produced aircraft carrier,
-        Shandong into service at Yulin Naval Base in the Southern Theater Command. In April,
-        the Shandong conducted its first training exercise in the Philippine Sea with J-15 aircraft
-        entering Taiwan’s air defense identification zone for the first time, demonstrating the PLA’s
-        increased capabilities further from China’s borders.
+        In 2022, PAP forces performed rescue operations in Xining following major flooding in August
+        and in Sichuan after a September 5th earthquake and acquired new helicopters to support in
+        counter-terrorism and disaster relief tasks. An emphasis was also placed on PAP SOF training
+        throughout the year, including a maritime tactical joint exercise in June with PLANMC.
+        Additionally, a PAP officer was named as the commander of the PLA Garrison in the Hong Kong
+        Special Administrative Region, showing a PRC focus of maintaining social stability based on the
+        new commander’s counter-terrorism experience in the Xinjiang Uygur Autonomous Region.
       </p>
 
-      <h4>2022 Southern Theater Command Leadership</h4>
+      <h2>CHINA COAST GUARD (CCG)</h2>
       <p>
-        <strong>Commander– Wang Xiubin [王秀斌]</strong><br />
-        Previous position: Chief of Staff, Eastern Theater Command; Deputy Commander, Eastern Theater Command <br />
-        DOB: March 1964 <br />
-        Age: 58 <br />
-        Birthplace: Rudong County, Nantong, Jiangsu Province [江苏省南通市如东县掘港镇港南村] <br />
-        Education: National Defense University’s Joint Command and Staff College [联合指挥与参谋学院];
-        Postgraduate class at Zhejiang University; Taught at Nanjing Artillery Academy
+        The CCG is subordinate to the PAP and is responsible for a wide range of maritime security
+        missions, including defending the PRC’s sovereignty claims; combating smuggling, terrorism, and
+        environmental crimes; as well as supporting international cooperation. In 2021, the Standing
+        Committee of China’s National People’s Congress passed the Coast Guard Law which took effect
+        on 1 February 2021. The legislation regulates the duties of the CCG, to include the use of force,
+        and applies those duties to seas under the jurisdiction of the PRC. The law was met with concern
+        by other regional countries that may perceive the law as an implicit threat to use force, especially
+        as territorial disputes in the region continue.
       </p>
       <p>
-        <strong>Political Commissar of the Southern Theater Command – Wang Jianwu [王建武]</strong><br />
-        Rank: General <br />
-        Previous position: Deputy Director of the CMC Political Work Department <br />
-        DOB: August 1958 <br />
-        Age: 64 <br />
-        Birthplace: Luoning, Henan Province [河南省洛宁] <br />
-        Education: Unknown
+        Since the law, CCG activity has continued to prompt regional concern. In March 2022, the
+        Philippines lodged a diplomatic protest against the PRC after a CCG vessel reportedly engaged in
+        “close distance maneuvering” near a Filipino vessel in the disputed Scarborough Shoal. In
+        December 2022, Japan reported that CCG vessels stayed in its territorial waters for over 72 hours,
+        the longest continuous intrusion since 2012.
       </p>
       <p>
-        <strong>Chief of Staff of the Southern Theater Command – Liu Yayong [刘亚永]</strong><br />
-        Rank: Lieutenant General <br />
-        Previous position: Deputy Chief of Staff of the Northern Theater Command <br />
-        DOB: April 1958 <br />
-        Age: 64 <br />
-        Birthplace: Duchang, Jiangxi Province [江西省都昌] <br />
-        Education: Unknown
-      </p>
-
-      <h3>SOUTH CHINA SEA (SCS)</h3>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          The PRC’s outposts on the Spratly Islands are capable of supporting military operations,
-          including advanced weapon systems, and have supported non-combat aircraft. However,
-          no large-scale presence of combat aircraft has been yet observed at airfields on the
-          outposts.
-        </li>
-        <li>
-          In 2022, the PRC continued to deploy PLAN, CCG, and civilian ships in response to
-          Vietnamese and Malaysian drilling operations within the PRC’s claimed “Nine-DashLine,”
-          the Philippines’ construction at Thitu Island, and the Philippines’ resupply missions to
-          Second Thomas Shoal.
-        </li>
-      </ul>
-      <p>
-        In July 2016, pursuant to provisions in the 1982 United Nations Convention on the Law of
-        the Sea (UNCLOS), an arbitral tribunal convened at the Philippines’ behest, ruled that the
-        PRC’s claims to “historic rights” in the SCS, depicted by the “nine-dash line,” were not
-        compatible with UNCLOS.
+        The CCG’s continued expansion and modernization makes it the largest maritime law enforcement
+        fleet in the world. Newer CCG vessels are larger and more capable than older vessels, allowing
+        them to operate further offshore and remain on station longer. While exact numbers are
+        unavailable, open-source reporting and commercial imagery counts indicate the CCG has over 150
+        regional and oceangoing patrol vessels (more than 1,000 tons). These larger vessels include over
+        20 corvettes transferred from the PLAN, which were modified for CCG operations. , The newer,
+        larger CCG vessels are equipped with helicopter facilities, high-capacity water cannons, multiple
+        interceptor boats and guns ranging from 20 to 76 millimeters.,
       </p>
       <p>
-        Since December 2019, Indonesia, Malaysia, the Philippines, and Vietnam have explicitly
-        referenced the arbitral ruling in notes verbales to the UN denying the validity of the PRC’s
-        “historic rights” and nine-dash line claims. Beijing, however, categorically rejects the
-        tribunal decision, and the PRC continues to use coercive tactics, including the employment
-        of PLA naval, coast guard, and paramilitary vessels, to enforce its claims. The PRC does so
-        in ways calculated to remain below the threshold of provoking conflict.
-      </p>
-      <p>
-        In 2022, the PRC continued to impose a yearly, unilateral three-month fishing ban that
-        includes the waters inside the EEZ of the Philippines and Vietnam to incrementally enforce
-        its de facto maritime claims.
-      </p>
-      <ul>
-        <li>
-          The PRC states that international military presence within the SCS is a challenge to its
-          sovereignty. Throughout 2022, the PRC deployed PLAN, CCG, and civilian ships to
-          maintain a presence in disputed areas, such as near Scarborough Reef and Thitu Island,
-          as well as in response to oil and gas exploration operations by rival claimants within
-          the PRC’s claimed “nine-dash line.”
-        </li>
-        <li>
-          Separately, the CCG and People's Armed Forces Maritime Militia (PAFMM) used nets
-          and ropes to block Philippine supply boats on their way to an atoll in the SCS and issued
-          radio challenges and threats to Philippine ships during routine resupply missions.
-        </li>
-        <li>
-          In November 2022, a CCG vessel forcibly seized apparent PRC rocket debris that had
-          fallen near Philippine-occupied Thitu Island from the Philippines by cutting the tow
-          line of a Philippine Navy vessel as it was towing debris back to shore. PRC insisted the
-          debris was returned to them after a “friendly negotiation,” despite the Philippines
-          producing video evidence of the incident and issuing diplomatic notes of protest.
-        </li>
-        <li>
-          In March 2022, the Philippines lodged a diplomatic protest after a CCG ship maneuvered
-          within 21 meters of a Filipino vessel near Scarborough Shoal. This was the fourth time
-          in under a year that the CCG had maneuvered dangerously close to Philippine vessels.
-        </li>
-        <li>
-          In December 2022, the Philippines expressed serious concern over reports that the PRC
-          had reclaimed several unoccupied land features in the SCS, notably at four features in
-          the Spratly Islands. The Philippines noted that new construction contravenes the
-          Declaration of Conduct on the South China Sea’s undertaking on self-restraint and the
-          2016 Arbitral Award, while Beijing denied any actions and emphasized dialogue between
-          the two nations.
-        </li>
-      </ul>
-
-      <h3>WESTERN THEATER COMMAND</h3>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          The Western Theater Command is oriented toward India and counterterrorism missions
-          along China’s Central Asia borders.
-        </li>
-        <li>
-          The Western Theater Command focuses on Xinjiang and Tibet Autonomous Regions,
-          where the CCP perceives a high threat of separatism and terrorism, particularly among
-          Uyghur populations in Xinjiang.
-        </li>
-        <li>
-          Since early May 2020, sustained tensions along the India-China border have dominated
-          the Western Theater Command’s attention, including at least one border clash in
-          December 2022 along the PRC border with India’s Arunachal Pradesh state that injured
-          multiple soldiers.
-        </li>
-      </ul>
-      <p>
-        The Western Theater Command is geographically the largest theater command within the PRC
-        and is responsible for responding to conflict with India and what the PRC refers to as
-        “terrorist threats” in western China. PLA units located within the Western Theater Command
-        include 76th and 77th Group Armies and ground forces subordinate to Xinjiang and Xizang
-        Military Districts; three PLAAF bases, one transportation division, one flying academy, and
-        one PLARF base.
-      </p>
-      <p>
-        Within China, the Western Theater Command focuses on Xinjiang and Tibet Autonomous
-        Regions, where the CCP perceives a high threat of separatism and terrorism, particularly
-        among Uyghur populations in Xinjiang. According to the U.S. Department of State’s 2022
-        Country Reports on Human Rights Practices, in the PRC, “genocide and crimes against
-        humanity occurred during the year against the predominantly Muslim Uyghurs and other
-        ethnic and religious minority groups in Xinjiang.”
-      </p>
-      <p>
-        Although PRC government officials justified the camps under the pretense of “combatting
-        terrorism, separatism, and extremism,” information from the international community,
-        including the UN, refute such justifications. Moreover, oppression of Muslim Uyghurs and
-        other ethnic and religious minority groups in Xinjiang is likely used by extremist
-        organizations as a propaganda and recruiting tool, generating new threats to the region.
-      </p>
-      <p>
-        Since early May 2020, sustained tensions along the India-China border have dominated the
-        Western Theater Command’s attention. Differing perceptions between India and the PRC
-        regarding border demarcations along the LAC, combined with recent infrastructure
-        construction on both sides, led to multiple clashes, an ongoing standoff, and military buildups
-        along the shared border. In response to a skirmish in June 2020 between PRC and Indian
-        patrols in Galwan Valley, the most violent clash between the two countries in 45 years, the
-        Western Theater Command implemented a large-scale mobilization and deployment of PLA
-        forces along the LAC.
-      </p>
-      <p>
-        Commander-level negotiations meant to reduce tensions continued in December 2022
-        with the 17th round of talks. The Western Theater Command’s deployments along the
-        LAC will likely continue through 2023.
+        Revised estimates indicate the CCG operates more than 50 regional patrol combatants (more than
+        500 tons), which can be used for limited offshore operations, and an additional 300 coastal patrol
+        craft (100 to 499 tons).
       </p>
 
-      <h4>2022 Western Theater Command Leadership</h4>
+      <h2>CHINA’S MARITIME MILITIA</h2>
       <p>
-        <strong>Commander– General Wang Haijiang [汪海江]</strong><br />
-        Previous position: Commander, Xinjiang Military District <br />
-        DOB: July 1963 <br />
-        Age: 59 <br />
-        Birthplace: Anyue County, Ziyang, Sichuan Province <br />
-        Education: Unknown
+        China’s Maritime Militia (CMM) is a subset of the PRC’s national militia, an armed reserve force
+        of civilians available for mobilization that is ultimately subordinate to the CMC through the
+        National Defense Mobilization Department. Throughout China, militia units organize around
+        towns, villages, urban sub-districts, and enterprises and vary widely in composition and mission.
+        CMM vessels train with and assist the People’s Liberation Army Navy (PLAN) and the China
+        Coast Guard (CCG) in tasks such as safeguarding maritime claims, surveillance and
+        reconnaissance, fisheries protection, logistics support, and search and rescue. These operations
+        traditionally take place within the FIC along China’s coast and near disputed features in the SCS
+        such as the Second Thomas Shoal, Scarborough Reed, and Luconia Shoal. However, the presence
+        of possible CMM vessels mixed in with Chinese fishing vessels near Indonesia’s Natuna Island
+        outside of the “nine-dashed line” on Chinese maps indicated a possible ambition to expand CMM
+        operations within the region. The PRC employs the CMM in gray zone operations, or “lowintensity maritime rights protection struggles,” at a level designed to frustrate effective response
+        by the other parties involved. The PRC employs CMM vessels to advance its disputed sovereignty
+        claims, often amassing them in disputed areas throughout the SCS and ECS. In this manner, the
+        CMM plays a major role in coercive activities to achieve the PRC’s political goals without fighting
+        and these operations are part of broader Chinese military theory that sees confrontational
+        operations short of war as an effective means of accomplishing strategic objectives.
       </p>
       <p>
-        <strong>Political Commissar– General Li Fengbiao [李凤彪]</strong><br />
-        Previous position: Commander, Strategic Support Force <br />
-        DOB: October 1959 <br />
-        Age: 63 <br />
-        Birthplace: Anxin County, Baoding, Hebei Province <br />
-        Education: Xinyang Army Infantry School; received a Master’s degree in strategic studies
-        from National Defense University
+        CMM units have been active for decades in incidents and combat operations throughout China’s
+        near seas and in these incidents CMM vessels are often used to supplement CCG cutters at the
+        forefront of the incident, giving the Chinese the capacity to outweigh and outlast rival claimants.
+        From September 2021 to September 2022, maritime militia vessels were a constant presence near
+        Iroquois Reef in the Spratly Islands within the Philippines EEZ. Other notable examples include
+        standoffs with the Malaysia drill ship West Capella (2020), defense of China’s HYSY-981 drill
+        rig in waters disputed with Vietnam (2014), occupation of Scarborough Reef (2012), and
+        harassment of USNS Impeccable and Howard O. Lorenzen (2009 and 2014). Historically, the
+        maritime militia also participated in China’s offshore island campaigns in the 1950s, the 1974
+        seizure of the Paracel Islands from South Vietnam, the occupation of Mischief Reef in the Spratly
+        Islands in 1994.
       </p>
       <p>
-        <strong>Chief of Staff– Major General Li Zhonglin [李中林]</strong><br />
-        Previous position: Commander, 71st Group Army, Eastern Theater Command Army <br />
-        DOB: Unknown <br />
-        Age: Unknown <br />
-        Birthplace: Unknown <br />
-        Education: Unknown
-      </p>
-
-      <h3>CHINA-INDIA BORDER</h3>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          In 2022, the PLA increased the deployment of forces and continued infrastructure
-          build up along the LAC.
-        </li>
-        <li>
-          Negotiations between India and the PRC made minimal progress as both sides resisted
-          losing perceived advantages on the border.
-        </li>
-      </ul>
-      <p>
-        Beginning in May 2020, PRC and Indian forces faced off in clashes with rocks, batons,
-        and clubs wrapped in barbed wire at multiple locations along the LAC. The resulting
-        standoff triggered the buildup of forces on both sides of the disputed border. Each country
-        demanded the withdrawal of the other’s forces and a return to pre-standoff conditions, but
-        neither China nor India agreed on those conditions.
+        The CMM also protects and facilitates Chinese fishing vessels operating in disputed waters. From
+        late December 2019 to mid-January 2020, a large fleet of over 50 Chinese fishing vessels operated
+        under the escort of multiple China Coast Guard patrol ships in Indonesian claimed waters northeast
+        of the Natuna Islands. At least a portion of the Chinese ships in this fishing fleet were affiliated
+        with known traditional maritime militia units, including a maritime militia unit based out of Beihai
+        City in Guangxi province. While most traditional maritime militia units operating in the SCS
+        continue to originate from townships and ports on Hainan Island, Beihai is one of a number of
+        increasingly prominent maritime militia units based out of provinces in mainland China. These
+        mainland based maritime militia units routinely operate in the Spratly Islands and in the southern
+        SCS, and their operations in these areas are enabled by increased funding from the Chinese
+        government to improve their maritime capabilities and grow their ranks of personnel.
       </p>
       <p>
-        On 15 June 2020, patrols violently clashed in Galwan Valley and resulted in the death of
-        approximately 20 Indian soldiers and four PLA soldiers. This incident was the deadliest
-        clash between the two since the 1962 Sino-Indian War. Following the 2020 clash, the
-        PLA has maintained continuous force presence and continued infrastructure build up
-        along the LAC.
+        CMM units employ marine industry workers, usually fishermen, as a supplement to the PLAN and
+        the CCG. While retaining their day jobs, these mariners are organized and trained, often by the
+        PLAN and the CCG, and can be activated on demand.
       </p>
       <p>
-        In 2022, China continued to develop military infrastructure along the LAC. These
-        improvements include underground storage facilities near Doklam, new roads in all three
-        sectors of the LAC, new villages in disputed areas in neighboring Bhutan, a second bridge
-        over Pangong Lake, a dual-purpose airport near the center sector, and multiple helipads.
+        Since 2014, China has built a new Spratly backbone fleet comprising at least 235 large steel-hulled
+        fishing vessels, many longer than 50 meters and displacing more than 500 tons. These vessels
+        were built under central direction from the PRC government to operate in disputed areas south of
+        12 degrees latitude that China typically refers to as the “Spratly Waters,” including the Spratly
+        Islands and southern SCS. Spratly backbone vessels were built for prominent CMM units in
+        Guangdong, Guangxi, and Hainan Provinces. For vessel owners not already affiliated with CMM
+        units, joining the militia was a precondition for receiving government funding to build new Spratly
+        backbone boats. As with the CCG and PLAN, new facilities in the Paracel and Spratly Islands
+        enhance the CMM’s ability to sustain operations in the SCS.
       </p>
       <p>
-        In 2022, China deployed one border regiment, supported by two divisions of Xinjiang
-        and Tibet Military Districts with four combined arms brigades (CAB) in reserve in the
-        western sector of the LAC. China also deployed as many as three light-to-medium CABs
-        in the eastern sector from other theater commands and an additional three CABs in the
-        central sector of the LAC.
+        Starting in 2015, the Sansha City Maritime Militia in the Paracel Islands has been developed into
+        a salaried full-time maritime militia force with its own command center and equipped with at least
+        84 purpose-built vessels armed with mast-mounted water cannons for spraying and reinforced steel
+        hulls for ramming. Freed from their normal fishing responsibilities, Sansha City Maritime Militia
+        personnel – many of whom are former PLAN and CCG sailors – train for peacetime and wartime
+        contingencies, often with light arms, and patrol regularly around disputed South China Sea features
+        even during fishing moratoriums.
       </p>
       <p>
-        Although some elements of a light CAB eventually withdrew, a majority of the deployed
-        forces remain in place along the LAC. On July 17th, China and India held the 16th round
-        of Corps Commander-level talks focusing on the resolution of border disagreements in the
-        western sector of the LAC. Both sides agreed to withdraw forces from the Gogra-Hotsprings
-        area of the LAC and to maintain dialogue through military and diplomatic channels.
+        The Tanmen Maritime Militia is another prominent CMM unit. Homeported in Tanmen township
+        on Hainan Island, the formation was described by Xi as a “model maritime militia unit” during a
+        visit to Tanmen harbor in 2013. During the visit, Xi encouraged Tanmen to support “island and
+        reef development” in the SCS. Between 1989 and 1995, the Tanmen Maritime Militia, under the
+        authority of the PLAN Southern Theater Navy (then the South Sea Fleet), was involved in the
+        occupation and reclamation of PRC outposts in the Spratly Islands, including Subi Reef, Fiery
+        Cross Reef, and Mischief Reef.
       </p>
       <p>
-        Two previous rounds of Corps Commander-level talks in March and January made no
-        progress to resolve the China-India border dispute. On September 8th, Chinese and Indian
-        forces began to withdraw from the Gogra-Hotsprings area along the western sector of the
-        LAC. This withdrawal was the direct result of the 16th round of Corps Commander-level
-        talks held in July.
+        <strong>CMM AND LAND RECLAMATION IN THE SOUTH CHINA SEA</strong><br/>
+        Since at least 2014, CMM vessels have engaged in covert small scale reclamation activity
+        and likely caused physical changes observed at multiple unoccupied features in the
+        Spratly Islands, including Lankiam Cay, Eldad Reef, Sandy Cay, and Whitsun Reef. Beijing
+        likely is attempting to covertly alter these features so that it can portray them as naturally
+        formed high tide elevations capable of supporting PRC maritime claims out to the farthest
+        extent of the nine-nash line. In contrast to the PRC large-scale reclamation program,
+        which was overt and where the original status of occupied features is well documented,
+        the less well-known historical record about many of the unoccupied features makes them
+        more susceptible to PRC efforts to shape international opinion regarding the status of the
+        features.
       </p>
       <p>
-        On October 14th, representatives from China and India attended a virtual 25th Meeting of
-        Working Mechanism for Consultation and Coordination (WMCC). Both sides lauded the
-        recent withdrawal of forces from the border and agreed to take measures to reduce border
-        tension and shift from emergency response to regular management of the border areas.
-      </p>
-      <p>
-        The 24th WMCC was held on 31 May with no significant progress being made to disengage
-        from the western sector of the LAC. On 9 December, hundreds of Chinese and Indian forces
-        clashed along the eastern sector of the LAC near the Yangtse area of Tawang, India. Both
-        sides previously agreed to not use firearms along the border—instead they use sticks and
-        clubs as weapons—however both Chinese and Indian forces sustained injuries.
-      </p>
-      <p>
-        Media reports described the skirmish as the worst since the 2020 Galwan Valley incident. On
-        20 December, China and India held the 17th round of Corps Commander-level talks at the
-        Chushul-Moldo border meeting point in China. This round of talks was not announced—
-        unlike previous talks—and came 10 days after Chinese and Indian forces clashed along the
-        eastern sector of the LAC near the Yangtse area of Tawang, India.
-      </p>
-      <p>
-        No agreements were made during this meeting and both sides pledged to continue dialogue
-        through military and diplomatic channels.
+        Through the National Defense Mobilization Department, Beijing subsidizes various local and
+        provincial commercial organizations to operate CMM vessels to perform “official” missions on an
+        ad hoc basis outside of their regular civilian commercial activities.
       </p>
 
-      <h3>NORTHERN THEATER COMMAND</h3>
-      <p><strong>Key Takeaways</strong></p>
-      <ul>
-        <li>
-          The Northern Theater Command is oriented toward the Korean Peninsula and Russian
-          border security.
-        </li>
-        <li>
-          In September 2022, the Northern Theater Command sent a 2,000 member contingent
-          of army, navy, and air force units to participate in the Russia-hosted multi-national
-          military exercise Vostok-2022.
-        </li>
-      </ul>
+      <h2>SPECIAL OPERATIONS FORCES</h2>
+      <h3>Key Takeaways</h3>
       <p>
-        The Northern Theater Command includes the PRC’s provinces bordering Mongolia, Russia,
-        North Korea, and the Yellow Sea. It is responsible for operations along China’s northern
-        periphery and border security associated with North Korean, Russia, and Mongolia. PLA
-        units located within the Northern Theater Command include the 78th, 79th, and 80th
-        Group Armies; the Northern Theater Navy and its naval aviation division and two marine
-        brigades; and two operational PLAAF bases, one special mission aircraft division, one flying
-        academy; and one PLARF base.
+        ● Despite unilateral and multilateral training, all of China’s SOF units lack real-world combat
+        experience.
       </p>
       <p>
-        During a contingency, the Northern Theater Command likely exercises command over some
-        SSF units in theater and receives strategic intelligence support from the SSF to improve
-        battlefield awareness and facilitate joint operations within the theater. The North Sea Fleet
-        is responsible primarily for protecting the sea approaches to northern China but could
-        provide mission-critical assets to support other fleets during contingencies located beyond
-        the Northern Theater.
+        ● China’s SOF does not have a national-level special operations command to oversee all of
+        China’s SOF activities.
       </p>
       <p>
-        In 2022, Northern Theater Command forces conducted various joint and single service
-        training activities including carrier navigation and flight training, and likely conducted
-        UAS training.
-      </p>
-
-      <h4>2022 Northern Theater Command Leadership</h4>
-      <p>
-        <strong>Commander– General Wang Qiang [王强]</strong><br />
-        Previous position: Commander of the Western Theater Command Air Force; Deputy
-        Commander of the Western Theater Command <br />
-        DOB: ~1963 <br />
-        Age: ~59 <br />
-        Birthplace: Probable Rong County, Zigong, SichuanProvince [四川省自贡市荣] <br />
-        Education: Unknown
+        ● Despite an emphasis to conduct joint training, theater commanders have no authority over PAP
+        units, making it difficult to incorporate PAP SOF into PLA training exercises.
       </p>
       <p>
-        <strong>Political Commissar– Admiral Liu Qingsong [刘青松]</strong><br />
-        Previous position: Political Commissar of the Northern Theater Command Navy; Deputy
-        Political Commissar of the Northern Theater Command <br />
-        DOB: ~November 1963 <br />
-        Age: ~58 <br />
-        Birthplace: Zhangqiu District, Jinan, Shandong Province [山东省济南市章丘区] <br />
-        Education: Unknown
+        ● The PRC categorizes its non-traditional security threats as terrorism (domestic and
+        international), separatism (entities looking to break away from China such Taiwan, Tibet, and
+        the Uyghur minority population in western China), and extremism (primarily religious).
       </p>
       <p>
-        <strong>Chief of Staff– Vice Admiral Jiang Guoping</strong><br />
-        Rank: Admiral <br />
-        Previous position: Assistant to the Chief, Joint Staff Department, CMC <br />
-        DOB: ~October 1962 <br />
-        Age: 60 <br />
-        Birthplace: Rushan, Weihai, Shandong Province <br />
-        Education: Dalian Naval Ship Academy
+        In late 2015, the PRC’s SOF were impacted by a series of reforms that aimed to “reorganize troops
+        and rebuild new-type combat forces. New types of combat forces have been enhanced to conduct
+        special operations, all-dimensional offense and defense, amphibious operations, far seas
+        protection, and strategic projection, aiming to make the force composition complete, combined,
+        multi-functional, and flexible.” In 2016, additional changes to Chinese law were made authorizing
+        the PRC’s SOF to conduct operations outside of China’s borders.
       </p>
-
+      <p>
+        <strong>Mission.</strong> The PRC’s SOF are tasked to conduct three primary missions; direct action, special
+        reconnaissance, and counterterrorism. The goal of the PRC’s SOF operations are to prepare the
+        battlefield for their conventional force counterparts by attacking critical areas, degrading enemy
+        operational systems and capabilities, and delaying or disrupting enemy operational activities. In
+        conventional warfare, the PRC’s SOF missions include, but are not limited to, disrupting rear
+        echelon formations and activities, destroying or securing key targets, decapitation, and targeting
+        for fire support. The PRC’s SOF can also conduct humanitarian aid and disaster relief (HADR)
+        missions, noncombatant evacuation operations (NEO), and personal security assignments. While
+        PLA SOF can conduct counterterrorism missions, PAP SOF are specifically tasked with this
+        mission. The PRC categorizes its non-traditional security threats as terrorism (domestic and
+        international), separatism (entities looking to break away from China such Taiwan, Tibet, and the
+        Uyghur minority population in western China), and extremism (primarily religious).
+      </p>
+      <p>
+        ● <strong>PLA Army SOF.</strong> PLAA SOF train to clear obstacles, operate behind enemy lines, land
+        navigation, reconnaissance, targeting, blocking maneuvers, and first aid. PLAA SOF units
+        from the Eastern Theater Command train for maritime missions by swimming, maneuvering
+        small rubber boats, marksmanship from moving boats, and scuba diving. In a 2016 exercise,
+        forces from a Southern Theater Command Army SOF Brigade (BDE) conducted an air assault
+        mission off the coast then traveled 5 km to the shoreline.
+      </p>
+      <p>
+        ● In September 2020, attack and transport helicopters from the 73rd Army Group (GA) conducted
+        air assault training with elements from a 73rd GA SOF BDE.
+      </p>
+      <p>
+        ● That same month, elements from a Southern Theater Command SOF BDE deployed to a new
+        training area and conducted a command post exercise and force-on-force exercise.
+      </p>
+      <p>
+        ● <strong>PLA Navy Marine Corps SOF.</strong> PLANMC SOF are trained to conduct ground-based special
+        operations, as well as coastal and maritime missions, including maritime counterterrorism,
+        HADR, NEO and visit, board, search and seizure operations. They train for more than a year
+        learning airborne, rappelling, reconnaissance, secure communication, navigation, driving,
+        search and seizure, demolition, and hand-to-hand combat skills. They also practice deploying
+        rubber boats and fast-roping from helicopters into the water. In December 2020, PLANMC
+        SOF participated in a combined arms island seizure exercise with mechanized infantry units
+        where the SOF used mine-clearing line charges to destroy obstacles with sniper teams in
+        overwatch.
+      </p>
+      <p>
+        ● <strong>PLA Air Force Airborne Corps SOF.</strong> The PLAAF Airborne Corps, created in 2011, train to
+        conduct high-altitude, high-opening and high-altitude, low-opening airborne missions for
+        critical target seizure, combat search and rescue, and fire support coordination during
+        extraction.
+      </p>
+      <p>
+        ● <strong>PLA Rocket Force Reconnaissance Regiment.</strong> The PLARF Reconnaissance Regiment
+        which is based in Qinghai, can conduct air, land, and sea missions including counter-ISR,
+        strategic asset protection, special reconnaissance, and target acquisition.
+      </p>
+      <p>
+        ● <strong>People’s Armed Police SOF.</strong> The PAP has three main SOF units assigned to the two mobile
+        contingents and the Xinjiang Military District. The Mountain Eagle Commando Unit created
+        in 2019 and based in Xinjiang is trained to conduct counterterrorism missions within the
+        province. The other two PAP SOF units, the Snow Leopards Commando Unit and the Falcon
+        Commando Unit, are large rapid reaction forces with mixed capabilities that can be deployed
+        in major contingencies on a national level. These units are also trained to conduct
+        counterterrorism missions along with hostage rescue, and include assault, reconnaissance,
+        explosive ordnance disposal, and sniper teams. The Snow Leopards have strict selection
+        standards with a 40-50 percent of recruits failing the initial screening. The Snow Leopards’
+        annual “Devil Week” training simulates counterterrorism missions in multiple combat
+        environments including desert, jungle, urban terrain, air, and sea.
+      </p>
+      <p>
+        <strong>Personnel.</strong> The PRC’s SOF currently has between 20,000 and 30,000 personnel. The PRC’s SOF
+        units are comprised of experienced officers and non-commissioned officers but are also assigned
+        new conscripts and officers that recently graduated from basic training or military academy,
+        including the Special Operations Academy in Guangzhou. SOF conscripts are selected from
+        volunteers suggesting they are among the most qualified that commit to a two-year term of service.
+        After their two-year commitment, the conscripts are offered to continue service as
+        noncommissioned officers.
+      </p>
+      <p>
+        <strong>Structure and Organization.</strong> Beginning in January 2016, the PLA underwent several reforms
+        that impacted the PLA SOF. The seven military regions were reorganized into five theater
+        commands (TC) and five of the 18 GA were deactivated. The PLA SOF were also reorganized
+        assigning a SOF BDE to each GA along with a SOF BDE for the Xinjiang and Tibet Military
+        Districts. These and later reforms also impacted the PLARF Reconnaissance Regiment, the
+        PLAAF Airborne Corps SOF BDE, and the PAP SOF units. Some of these SOF units are relatively
+        new and were created using conventional forces to expand the PLA’s SOF capability. All PLA
+        SOF units are supported by the PLA Air Force’s 15th Airborne Corps for tactical insertion,
+        extraction, and resupply.
+      </p>
+      <p>
+        Each PLA SOF BDE has between 2,000 and 3,000 personnel while a regiment has between 1,000
+        and 2,000 personnel. While PLA SOF units have discrete missions based on branch and location,
+        their internal structure resembles the PLA Army brigade-battalion-company-team construct with
+        a main, reserve, and rear command structure.
+      </p>
+      <p>
+        There are three SOF units within the PAP which have a total of six detachments. Three
+        detachments are assigned to the 1st Mobile Contingent based in Beijing, two detachments are
+        assigned to the 2nd Mobile Contingent based in Guangzhou, and one detachment falls under the
+        Xinjiang Internal Contingent.
+      </p>
+      <p>
+        There is no national-level special operations command responsible for all SOF activities. PLA
+        SOF also does not have organic or dedicated infrastructure or support and therefore must rely on
+        conventional forces to support their missions whereas the PAP does have an internal logistic
+        support system to support its SOF missions.
+      </p>
     </ProChinaLayout>
   );
 }

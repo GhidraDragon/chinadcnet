@@ -1,7 +1,5 @@
-import '../styles/globals.css';
+import '../styles/globals.css'; // <--- Global CSS import goes here
 
-// The custom App component is used to initialize pages.
-// We use it to wrap pages in a layout if desired.
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }

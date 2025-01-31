@@ -1,7 +1,4 @@
-// pages/pro-china-layout.js
-
 import Link from 'next/link';
-import styles from '../styles/globals.css'; // ensures we keep it consistent
 
 export default function ProChinaLayout({ children }) {
   return (

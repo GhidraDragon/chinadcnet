@@ -10,12 +10,8 @@ chinacnfood.com
 china99.net 
 chinacn365.com
 
-First
-![first](https://github.com/user-attachments/assets/1173c53e-0c34-4d64-91b0-9f2c9c3fba2c)
 
-First results
-![first-results](https://github.com/user-attachments/assets/b584cb41-1bc1-443f-ba2c-1e74de47e4f3)
-
+![zeusthunder](https://github.com/user-attachments/assets/8015b8c3-3569-43d6-b102-34b731e45aea)
 
 
 ![Screenshot 2025-02-01 at 9 33 40 AM](https://github.com/user-attachments/assets/65e23217-fab6-498a-8efd-2af148639cbe)
